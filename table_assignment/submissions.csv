@@ -1,0 +1,2777 @@
+Opt-in prize,Submission Title,Table Number,Submission Url,Plain Description,Video,Website,File Url,Built With,Mlh Points,Mlh Hardware Lab,Mlh Software Lab,Submitter Screen Name,Submitter First Name,Submitter Last Name,Submitter Email,College/Universities Of Team Members,Additional Team Member Count,Team Member 1 Screen Name,Team Member 1 First Name,Team Member 1 Last Name,Team Member 1 Email,...,,,,,,,,,,,,,,,
+,Acceleration Investor,25,https://hackpsu-spring-2019.devpost.com/submissions/115861-acceleration-investor,"Inspiration
+
+Money!
+
+What it does
+
+Shows you which stocks to invest in
+
+How we built it
+
+Using python and the IEX package
+
+Challenges we ran into
+
+text parsing around every corner. had to save the data in a text file and parsing the data took some time.
+
+Accomplishments that we're proud of
+
+We made MILLIONS
+
+What we learned
+
+time is money
+
+What's next for Acceleration Investor
+
+Machine learning will be used on the data with pytorch
+",,https://github.com/dmkaner/AccelerationInvesting/tree/master/Acceleration%20Investing,,python,,,,dmkaner,Dylan,Kane,dillmkane@gmail.com,Pennsylvania State University,1,VietPham,Viet,Pham,vhp4@psu.edu,,,,,,,,,,,,,,,,
+,projectpsu,32,https://hackpsu-spring-2019.devpost.com/submissions/115863-projectpsu,"extra credit
+",,,,python,,,,zuopinyihao1,zuopinyihao1,,407637739@qq.com,Pennsylvania State University,0,,,,,,,,,,,,,,,,,,,,
+EY Tech Challenge,Mobile Key,22,https://hackpsu-spring-2019.devpost.com/submissions/115884-mobile-key,"Why carry key on a cruise tour in these days...
+
+and parents, free kids
+",,,https://s3.amazonaws.com/challengepost/zip_files/production/42308/zip_files/EY_TECH_-_Mobile_Key.pdf,,Pennsylvania State University,,,jjk5745,Jeonghak,Kim,jjk5745@psu.edu,Pennsylvania State University,0,,,,,,,,,,,,,,,,,,,,
+HackPSU Overall - Tech,Mobile Key,22,https://hackpsu-spring-2019.devpost.com/submissions/115884-mobile-key,"Why carry key on a cruise tour in these days...
+
+and parents, free kids
+",,,https://s3.amazonaws.com/challengepost/zip_files/production/42308/zip_files/EY_TECH_-_Mobile_Key.pdf,,Pennsylvania State University,,,jjk5745,Jeonghak,Kim,jjk5745@psu.edu,Pennsylvania State University,0,,,,,,,,,,,,,,,,,,,,
+HackPSU Overall - Tech,Random Number Gamble Simulator,29,https://hackpsu-spring-2019.devpost.com/submissions/115888-random-number-gamble-simulator,"Inspiration
+
+Wanted to make a gambling program.
+
+What it does
+
+Allows users to gamble money and guess a random number
+
+How we built it
+
+Imported the random module and then used functions to make the program.
+
+Challenges we ran into
+
+Creating a file that saved the users balance.
+
+Accomplishments that we're proud of
+
+Creating a program that allowed users to choose different games and gamble.
+
+What we learned
+
+How to use files and functions to keep a balance.
+
+What's next for Random Number Gamble Simulator
+
+To use for fun.
+",,https://onlinegdb.com/ry77beovV,https://s3.amazonaws.com/challengepost/zip_files/production/42246/zip_files/HackPSU.zip,python,Penn State University Park,,,nathanbickus,Nathan,Bickus,nathanbickus@yahoo.com,Pennsylvania State University,1,jch5769,John,Hofbauer,jch5769@psu.edu,,,,,,,,,,,,,,,,
+,iPhone app for Calculator,43,https://hackpsu-spring-2019.devpost.com/submissions/115892-iphone-app-for-calculator,"Inspiration- We wanted to build some sort of app
+
+What it does-Calculator
+
+How we built it-We used a tutorial on github https://github.com/fnk0/iOS-Calculator-Tutorial
+
+Challenges we ran into-Struggled to get functions to fit with the buttons
+
+Accomplishments that we're proud of-All of it
+
+What we learned-How easy and simple it is to make an iPhone app
+
+What's next for iPhone app for Calculator- create more buttons for more operations such as exponent, factorial etc.
+",,,https://s3.amazonaws.com/challengepost/zip_files/production/42247/zip_files/Calculator.zip,xcode,,,,jse18566,Jacob,Etling,jse18@psu.edu,Pennsylvania State University,1,joeschrum1,Joseph,Schrum,joeschrum1@gmail.com,,,,,,,,,,,,,,,,
+,"My own website, (NOT using wix or other services)",75,https://hackpsu-spring-2019.devpost.com/submissions/115959-my-own-website-not-using-wix-or-other-services,"Inspiration
+
+I have seen a lot of my friends and even professors have coded their own websites where they keep personal information and keep an updated resume. 
+
+What it does
+
+Just allows me to put this out there for employers to take a look at anytime I am applying for a job. However, maybe it will also help out with businesses finding people they need like me.
+
+How I built it
+
+I used html for the coding part of the website, and was able to buy the domain name and host from google cloud. CSS, will be used if time allowed (as of submission right now I do not have time to do so yet), to make everything look nicer but that depends on how much time I have left after getting the basics down.
+
+Challenges I ran into
+
+The first one was obvious to me that I was going to run into and that is that I did not know html in any capacity. Which obviously was the big hurdle for this project. Along with CSS learning which I am still doing at this time to try to make it look nicer as a webpage.
+
+Accomplishments that I'm proud of
+
+I thought myself html enough to make a website without knowing any of it over night. 
+
+What I learned
+
+A lot of html, more about host and domains through googles services. Some CSS, more on it as time is going as of right now.
+
+What's next for My own website, (NOT using wix or other services)
+
+CSS if not implemented by time of demo, maybe more information being posted or I could even overhaul all of the website into a different language, if I see such is needed though of course.
+",,http://tylerdyarington.com,,"google-cloud, html, css",,,,tyier226,Tyler,Yarington,tyier226@hotmail.com,Pennsylvania State University,0,,,,,,,,,,,,,,,,,,,,
+HackPSU Overall - Tech,n-sided dice roller,14,https://hackpsu-spring-2019.devpost.com/submissions/115964-n-sided-dice-roller,"Inspiration
+Playing dnd, sometimes I forget to bring my dice so I need a way to roll multiple sided dice with equal probability of landing on each side
+
+What it does
+It prompts for a number and outputs a random number from 1 to the inputted number
+
+How I built it
+Using python 3.6.3 and IDLE
+
+Challenges I ran into
+Handling input from the user and making sure its valid as a integer greater than 1
+
+Accomplishments that I'm proud of
+only minor syntax errors
+
+What I learned
+brushed up on my python
+
+What's next for n-sided dice roller
+adding an input for how many of the n-sided dice to roll at a time
+",,,https://s3.amazonaws.com/challengepost/zip_files/production/42276/zip_files/n-sided-dice-roller.zip,"python, random",,,,dar5654,David,Reinoso,dar5654@psu.edu,Pennsylvania State University,0,,,,,,,,,,,,,,,,,,,,
+HackPSU Overall - Tech,the analysis of the black Friday data,34,https://hackpsu-spring-2019.devpost.com/submissions/115968-the-analysis-of-the-black-friday-data,"Inspiration
+
+Because I love shopping, especially during black Friday, so I really want to know more thing about black Friday shopping details. 
+
+What it does
+
+This is just an analysis, but from the analysis we can see what kinds of things that people most likely to buy during black Friday, and there are more men or women would like to spend money during black Friday. This can provide more information for the merchants
+
+How I built it
+
+This is by using Rstudio
+
+Challenges I ran into
+
+There is no so many challenges, I just used what I learn from my class to build different models, graphs. the only thing makes me feel a little bit hard is some models are not so accurate and hard to analysis. 
+
+What I learned
+
+I learned that people would like to buy more daily use, also they would like to buy something that have more discount even though they do not need. This is a very interesting analysis because from the data, there are more men would like to spend money instead of women. 
+",,https://github.com/RileyHua/final-project,https://s3.amazonaws.com/challengepost/zip_files/production/42280/zip_files/BicycleSharingActivity.nb_%281%29.html,rstudio,,,,RileyHua,Ying,Hua,yfh5144@psu.edu,Pennsylvania State University,0,,,,,,,,,,,,,,,,,,,,
+,Where Can I Go?,15,https://hackpsu-spring-2019.devpost.com/submissions/115988-where-can-i-go,"Inspiration
+
+Spring Break on a Budget
+
+What it does
+
+Asks user for departing airport, number of days, and budget, returning a list of cities where they can travel to within the budget
+
+How we built it
+
+Python and brains
+Collected flights data from faredetective.com
+Trip costs from budgetyourtrip.com
+
+Challenges we ran into
+
+Collecting accurate data and reading the files correctly
+
+Accomplishments that we're proud of
+
+Getting it to work!
+
+What we learned
+
+Teamwork, strong communication, learned about expensive cities, and 
+
+What's next for Where Can I Go?
+
+Expand departing airports and destinations
+",,https://github.com/polacheck/Hack2019,https://s3.amazonaws.com/challengepost/zip_files/production/42289/zip_files/Hack_2019_Submission.zip,python,,,,sjp5665,Stephen,Polacheck,sjp5665@psu.edu,Pennsylvania State University,4,gwestfall432,gwestfall432,,gvw5064@psu.edu,cja5553,Charles,Alba,cja5553@psu.edu,dag5658,Devarshi,Gohil,dag5658@psu.edu,tjschaeffer,Thomas (TJ),Schaeffer,tjs684@psu.edu,,,,
+,Final-project,2,https://hackpsu-spring-2019.devpost.com/submissions/115991-final-project,"Final-project
+
+In this project, I am anaylsing a set of health data to interpret what is the main cause of death
+",,https://github.com/irischow403/Final-project,,r,,,,irischow403,irischow403,,tfc5229@psu.edu,Pennsylvania State University,0,,,,,,,,,,,,,,,,,,,,
+,Snake Game,4,https://hackpsu-spring-2019.devpost.com/submissions/115998-snake-game,"Inspiration: To see how snake game is created
+
+What it does: Plays the snake game
+
+How we built it: Using python
+
+Challenges we ran into: Getting the correct length and end game trailer
+
+Accomplishments that we're proud of: Long snakes
+
+What we learned: How they coded snake during 1990s
+
+What's next for Snake Game:
+
+Cybersecurity
+",,https://repl.it/repls/VigorousKeyStartup,https://s3.amazonaws.com/challengepost/zip_files/production/42296/zip_files/SnakeGame.docx,"python, atom",,,,azp5611,Ahmet,Putun,johnpower51718@gmail.com,Pennsylvania State University,1,sdh5378,Shane,Hagan,sdh5378@psu.edu,,,,,,,,,,,,,,,,
+,hackpsu project YaoXu,76,https://hackpsu-spring-2019.devpost.com/submissions/115999-hackpsu-project-yaoxu,"Inspiration To see how people's reaction and perspective on a thing
+
+What it does It using API of twitter combined with Google Assistant
+
+How I built  1. First, get access to API of twitter with developer account.
+                    2. combine the API of Twitter and Google assistant together with dialogflow
+                    3. use Action on Google to run the test of this action
+
+Challenges I ran into
+
+It is hard to understand what the coding part do. Because I am not familiar with that language.
+
+Accomplishments that I'm proud of
+
+I run the test successfully, it does make response based on my command and its response is pretty close to the real thing which is cool.
+
+What I learned
+
+Google assistant is a good entry of interaction of data and user. API is a good tool to allow Google assistant to access these huge amount of data and user can get a conclusion based on these data.
+
+What's next for hackpsu project YaoXu
+",,https://localhost-actions-on-google.glitch.me/,https://s3.amazonaws.com/challengepost/zip_files/production/42298/zip_files/project_for_hack.xcodeproj.zip,google-assistence,,,,ypx5084,Yao,Xu,ypx5084@psu.edu,Pennsylvania State University,0,,,,,,,,,,,,,,,,,,,,
+,Pictocross Solver,23,https://hackpsu-spring-2019.devpost.com/submissions/116000-pictocross-solver,"Inspiration
+
+Extra Credit
+
+What it does
+
+It solves pictocross puzzles
+
+Challenges we ran into
+
+The algorithm to solve a pictocross puzzle without brute forcing it was too hard to make during the hackathon, so it solves very basic ones
+",,,https://s3.amazonaws.com/challengepost/zip_files/production/42299/zip_files/Pictocross.zip,java,,,,JLeav,JLeav,,jlevsports@gmail.com,Pennsylvania State University,2,hcwill22,,,hcw5067@psu.edu,nbelsterling,nbelsterling,,n.belsterling@gmail.com,,,,,,,,,,,,
+,PSU Clubs,66,https://hackpsu-spring-2019.devpost.com/submissions/116008-psu-clubs,"Inspiration
+
+As new students at Penn State, it is a lot of work trying to decide on which clubs to focus on, much less trying to find out all the different clubs that exist. Currently, Penn State does have a list of all possible clubs but there is little to no information about most if not all of the clubs. Furthermore, clubs also have pretty bad websites which are not informative and are often out of date. Recognizing this, we have decided to put all of this information into an App, making it easy to update and share this information to all incoming students.
+
+What it does
+
+Any club or organization at Penn State can enter their info (name, contact information, information about what the club does, major activities throughout the year, officers, etc.). Once this information is available, every student with an account is able to see the different clubs and choose if they want to join said club. Each club can choose a different status. For open clubs, anyone can join at any time. For closed clubs, members must be added by an existing member of the club. For [request] clubs, members must request to be added. Once the student is in the club, they will be sent any notifications for updates and activities occurring that the club publishes. (We will probably implement the join club features later)
+
+How we built it
+
+We created it in android-studio, which is an IDE for creating apps for android devices. Two people worked on the project concept and graphic design, while the rest worked on the actual coding.
+
+Challenges we ran into
+
+All of us are pretty new to computer science and have not had much experience making such elaborate projects before. Because of this, it took a lot of learning to figure out how every part worked, such as creating the app, implementing graphic design, creating a database, and making a clean user interface.
+
+Accomplishments that we're proud of
+
+We are proud of everything we learned and the team building experience we shared. It was really hard for us to come up with an idea at first but we eventually got there, and then everything fell into place. We are probably most proud that we identified an actual problem that all of us had, and that we can use our app in order to bring tangible change into the world and make the stressful life of a college student a little bit easier.
+
+What we learned
+
+Because none of us had a ton of experience with databases or app development, we learned a lot about how android studio works and how to build a relational database.
+
+What's next for PSU Clubs
+
+Essentially, we would like to see PSU Clubs implemented across Penn State. For this, we would turn our MVP into an actually, optimized app so that various clubs around campus can start adding their info and students can start using the app. Eventually, we would like to add more features such as joining the clubs (as discussed above), a form of a chat, and even profiles and accounts in order to facilitate all the features we've discussed.
+",,https://github.com/stephenrm/PSUClubs,,"android, java, android-studio",Penn State University,,,mutian00,mutian00,,mzf5189@psu.edu,Pennsylvania State University,4,stephenrm,stephenrm,,smaransky@comcast.net,omsalunkhe8,Om,Salunkhe,omsalunkhe8@gmail.com,mrmikeyc,mrmikeyc,,michaelchan2018@gmail.com,szl277,Sunna,Lee,szl277@psu.edu,,,,
+ Best Domain Registered with Domain.com (MLH),Albumversary,1,https://hackpsu-spring-2019.devpost.com/submissions/116022-albumversary,"What it does
+
+Log in with your Spotify account and receive a customized calendar containing birthdays of your favorite albums. This calendar is compatible with any calendaring application (iOS, Android, macOS, Windows, Web, etc.)
+
+Accomplishments that we're proud of
+
+Unique application feature we have never seen constructed before.
+",,http://tracktothefuture.net,,"typescript, express.js, spotify, html, css, javascript, ical, mustache, node.js",Penn State,,Domain.com,nrubin29,Noah,Rubin,nrubin29@gmail.com,Pennsylvania State University,1,nro337,Nick,Alico,nro337@gmail.com,,,,,,,,,,,,,,,,
+HackPSU Overall - Tech,Albumversary,1,https://hackpsu-spring-2019.devpost.com/submissions/116022-albumversary,"What it does
+
+Log in with your Spotify account and receive a customized calendar containing birthdays of your favorite albums. This calendar is compatible with any calendaring application (iOS, Android, macOS, Windows, Web, etc.)
+
+Accomplishments that we're proud of
+
+Unique application feature we have never seen constructed before.
+",,http://tracktothefuture.net,,"typescript, express.js, spotify, html, css, javascript, ical, mustache, node.js",Penn State,,Domain.com,nrubin29,Noah,Rubin,nrubin29@gmail.com,Pennsylvania State University,1,nro337,Nick,Alico,nro337@gmail.com,,,,,,,,,,,,,,,,
+,Caesar Cipher Encoder/Decoder,69,https://hackpsu-spring-2019.devpost.com/submissions/116024-caesar-cipher-encoder-decoder,"Inspiration
+
+It was recently the Ides of March, so we felt it was appropriate to implement a caesar cipher.
+
+What it does
+
+This encoder and decoder allows the user to encrypt and decrypt messages using a caesar cipher via a graphical interface.
+
+How I built it
+
+We used python, as well as tkinter for the GUI. One of us focused primarily on the GUI, and the other worked more on the encryption and decryption functions.
+
+Challenges I ran into
+
+We experienced a strange bug where an error occurred on only one of our machines, with the same code/verison of python. We added an additional function to ensure this would not be a problem.
+
+Accomplishments that I'm proud of
+
+We were able to work together effectively on this project, as our strengths complemented each other. This especially came in handy when trying to resolve errors/bugs.
+
+What I learned
+
+We gained more experience with both python and GUIs, specifically tkinter. Further, using github throughout the process was also valuable experience.
+
+What's next for Caesar Cipher Encoder/Decoder
+
+We could add more functionality and design to the GUI, such as a more robust layout, additional features, or even more types of ciphers. 
+",,https://github.com/whit40/caesar_cipher,,"python, tkinter",Pennsylvania State University,,,whit40,whit40,,acw123103478@gmail.com,Pennsylvania State University,1,NucciTheBoss,NucciTheBoss,,nucci.programming@gmail.com,,,,,,,,,,,,,,,,
+ Best Domain Registered with Domain.com (MLH),Application Tracker/Resume Tester,54,https://hackpsu-spring-2019.devpost.com/submissions/116026-application-tracker-resume-tester,"Inspiration
+
+We realized that the biggest things that we would love to see when applying to a job is a interface for applicants to know where they are in the process and a system through which applicants can check to see if their resume even has a chance.
+
+What it does
+
+The website allows each applicant to have an applicant account through which they can track their progress in the application process, test their resume against past hires resumes to get an idea of their chances, and apply to GEICO. The applicants names, emails, and resumes are then stored in a cloud based storage solution (right now just on Wix's local database) and sorted based on the number of keywords they hit.
+
+How I built it
+
+The Website was built mainly with Wix.com but used a domain from Domain.com
+
+The Resume matching tech was written in Java, then put into a web app to run through the website. 
+
+Challenges I ran into
+
+Implementing the pdf word finder, making a website that had all of the features that we were looking for, coding the word finder to actually do what it was suppose to. 
+
+Accomplishments that we're proud of
+
+The aesthetics of the project allow GEICO to keep a professional relationship with their applicants while also making the process easier for both parties.
+
+The word finding algorithm was hard to implement on a website so we had to do a fair bit of research in order to implement it. Additionally coming up with a program to match keywords on different pdf files was no easy task so it also took a fair bit of research. 
+
+What We learned
+
+We learned a fair bit about creating a website and coding in Java.
+
+What's next for Application Tracker/Resume Tester
+
+To be built and implemented at GEICO. Ideally it would not be built with Wix.com and the word finder application would be refined and more intelligence would be added to it. Right now it is the very bare bones of being a AI system. Because of the time constraint we were not able to make this system perfect but it gives the general idea of what we were thinking for the system.
+",,http://emergingleadersprogram.com,,"domain.com, wix, python, computer, google-docs","Georgia Institute of Technology, Penn Statw",,Domain.com,katschuetz,,,kschuetz@gatech.edu,Georgia Institute of Technology - Main Campus,0,,,,,,,,,,,,,,,,,,,,
+HackPSU Overall - Tech,Application Tracker/Resume Tester,54,https://hackpsu-spring-2019.devpost.com/submissions/116026-application-tracker-resume-tester,"Inspiration
+
+We realized that the biggest things that we would love to see when applying to a job is a interface for applicants to know where they are in the process and a system through which applicants can check to see if their resume even has a chance.
+
+What it does
+
+The website allows each applicant to have an applicant account through which they can track their progress in the application process, test their resume against past hires resumes to get an idea of their chances, and apply to GEICO. The applicants names, emails, and resumes are then stored in a cloud based storage solution (right now just on Wix's local database) and sorted based on the number of keywords they hit.
+
+How I built it
+
+The Website was built mainly with Wix.com but used a domain from Domain.com
+
+The Resume matching tech was written in Java, then put into a web app to run through the website. 
+
+Challenges I ran into
+
+Implementing the pdf word finder, making a website that had all of the features that we were looking for, coding the word finder to actually do what it was suppose to. 
+
+Accomplishments that we're proud of
+
+The aesthetics of the project allow GEICO to keep a professional relationship with their applicants while also making the process easier for both parties.
+
+The word finding algorithm was hard to implement on a website so we had to do a fair bit of research in order to implement it. Additionally coming up with a program to match keywords on different pdf files was no easy task so it also took a fair bit of research. 
+
+What We learned
+
+We learned a fair bit about creating a website and coding in Java.
+
+What's next for Application Tracker/Resume Tester
+
+To be built and implemented at GEICO. Ideally it would not be built with Wix.com and the word finder application would be refined and more intelligence would be added to it. Right now it is the very bare bones of being a AI system. Because of the time constraint we were not able to make this system perfect but it gives the general idea of what we were thinking for the system.
+",,http://emergingleadersprogram.com,,"domain.com, wix, python, computer, google-docs","Georgia Institute of Technology, Penn Statw",,Domain.com,katschuetz,,,kschuetz@gatech.edu,Georgia Institute of Technology - Main Campus,0,,,,,,,,,,,,,,,,,,,,
+Geico - AI Challenge,Application Tracker/Resume Tester,54,https://hackpsu-spring-2019.devpost.com/submissions/116026-application-tracker-resume-tester,"Inspiration
+
+We realized that the biggest things that we would love to see when applying to a job is a interface for applicants to know where they are in the process and a system through which applicants can check to see if their resume even has a chance.
+
+What it does
+
+The website allows each applicant to have an applicant account through which they can track their progress in the application process, test their resume against past hires resumes to get an idea of their chances, and apply to GEICO. The applicants names, emails, and resumes are then stored in a cloud based storage solution (right now just on Wix's local database) and sorted based on the number of keywords they hit.
+
+How I built it
+
+The Website was built mainly with Wix.com but used a domain from Domain.com
+
+The Resume matching tech was written in Java, then put into a web app to run through the website. 
+
+Challenges I ran into
+
+Implementing the pdf word finder, making a website that had all of the features that we were looking for, coding the word finder to actually do what it was suppose to. 
+
+Accomplishments that we're proud of
+
+The aesthetics of the project allow GEICO to keep a professional relationship with their applicants while also making the process easier for both parties.
+
+The word finding algorithm was hard to implement on a website so we had to do a fair bit of research in order to implement it. Additionally coming up with a program to match keywords on different pdf files was no easy task so it also took a fair bit of research. 
+
+What We learned
+
+We learned a fair bit about creating a website and coding in Java.
+
+What's next for Application Tracker/Resume Tester
+
+To be built and implemented at GEICO. Ideally it would not be built with Wix.com and the word finder application would be refined and more intelligence would be added to it. Right now it is the very bare bones of being a AI system. Because of the time constraint we were not able to make this system perfect but it gives the general idea of what we were thinking for the system.
+",,http://emergingleadersprogram.com,,"domain.com, wix, python, computer, google-docs","Georgia Institute of Technology, Penn Statw",,Domain.com,katschuetz,,,kschuetz@gatech.edu,Georgia Institute of Technology - Main Campus,0,,,,,,,,,,,,,,,,,,,,
+Lion LaunchPad SLO - Inventory Innovation,Checklist,27,https://hackpsu-spring-2019.devpost.com/submissions/116027-checklist,"Inspiration
+
+I was inspired by my college debt
+
+What it does
+
+it works
+
+How I built it
+
+pure sweat and tears
+
+Challenges I ran into
+
+my tears got the paper wet
+
+Accomplishments that I'm proud of
+
+everything about it is perfect
+
+What I learned
+
+a lot
+
+What's next for Checklist
+
+another piece of paper
+",,,,paper,"Georgia Institute of Technology, Penn State",,,katschuetz,,,kschuetz@gatech.edu,Georgia Institute of Technology - Main Campus,0,,,,,,,,,,,,,,,,,,,,
+HackPSU Overall - Tech,Checklist,27,https://hackpsu-spring-2019.devpost.com/submissions/116027-checklist,"Inspiration
+
+I was inspired by my college debt
+
+What it does
+
+it works
+
+How I built it
+
+pure sweat and tears
+
+Challenges I ran into
+
+my tears got the paper wet
+
+Accomplishments that I'm proud of
+
+everything about it is perfect
+
+What I learned
+
+a lot
+
+What's next for Checklist
+
+another piece of paper
+",,,,paper,"Georgia Institute of Technology, Penn State",,,katschuetz,,,kschuetz@gatech.edu,Georgia Institute of Technology - Main Campus,0,,,,,,,,,,,,,,,,,,,,
+HackPSU Overall - Tech,Galactic Smuggler,3,https://hackpsu-spring-2019.devpost.com/submissions/116032-galactic-smuggler,"Built overnight with XCode 10 and Swift 4.
+",,https://github.com/bpk9/Galactic-Smuggler,,"swift, objective-c",Penn State,,,bpk9,Brian P,Kasper,bpk9@psu.edu,Pennsylvania State University,3,NoelCav,NoelCav,,noelcaverly@msn.com,schhaef,schhaef,,schaefer.austin@gmail.com,erdemulusoy,erdemulusoy,,bupserdemulusoy@gmail.com,,,,,,,,
+HackPSU Overall - Tech,WoodCuts,52,https://hackpsu-spring-2019.devpost.com/submissions/116053-woodcuts,"Inspiration
+
+Taran likes to build tree houses
+
+What it does
+
+WoodCuts is a helpful tool for carpenters to get all the wood they need, using the least amount of wood planks
+
+How we built it
+
+Python and tkinter, lack of sleep
+
+Challenges we ran into
+
+team members slackin
+sleep deprivation = ""minus"" kills
+
+Accomplishments that we're proud of
+
+redBull = ""plus"" kills
+
+What we learned
+
+Basics of Tkinter
+
+What's next for WoodCuts
+
+add the abilty to add in cuts with angles, then generate the best cut designs and minimal wood useage
+--I wrote all the math for it, just didnt have enough time to implement it
+",,https://github.com/ty345678/WoodCuts.git,,python,PSU,,,ty345678,ty345678,,tymars345678@aim.com,Pennsylvania State University,1,tbr5094,TARAN,RICKARD,tbr5094@psu.edu,,,,,,,,,,,,,,,,
+EY Tech Challenge,Symphony of the Seas,78,https://hackpsu-spring-2019.devpost.com/submissions/116095-symphony-of-the-seas,"Inspiration
+
+We like to think of our app as the sail of our entrepreneur 'ship.' And yes, we know she's gonna soar.
+
+What it does
+
+It is an app that is central to our cruise experience
+
+How we built it
+
+We used the android studio to build it. We primarily made use of Java and XML in our project.
+
+Challenges we ran into
+
+The biggest challenge we ran into as two freshmen was definitely lack of technical expertise. Many a time we would think of some really great features for our app and would find ourselves unable to actually implement them. For example, it took us a long time to learn how to make a button on a screen open the next activity. Along the way, we discovered that our HAXM engine was a version older than required. But the SDK manager showed that it was up to date. After some head scratching, we managed to re-install it using the help of reddit and stackoverflow.
+
+Accomplishments that we're proud of
+
+We are really proud that we were able to deliver a finished product. We are happy that our app has many of the features we wanted to include in it. 
+
+What we learned
+
+We learned more about working on the Android Studio than we did before coming here certainly. We also honed our Java and XML in the process.
+
+What's next for Symphony of the Seas
+
+Well, first it will certainly grace its allotted space in our Github profiles. We would like to re-use some of the features of the app in future projects. Finally, of course, if anyone is on the lookout for a ""Digital Cruise Experience,"" you know who to call.
+",,,https://s3.amazonaws.com/challengepost/zip_files/production/42374/zip_files/app-debug.apk,"java, xml",The Pennsylvania State University,,,Prithvi1,,,pzr5169@psu.edu,Pennsylvania State University,0,,,,,,,,,,,,,,,,,,,,
+,State College Restaurant Recommendation,77,https://hackpsu-spring-2019.devpost.com/submissions/116097-state-college-restaurant-recommendation,"College students are not sure where to eat when they have limited time, food allergy or lack of understanding of the restaurants options.
+
+Our application will help students to decide which restaurant is the best fit under their preferences.
+
+In order to optimize the restaurant recommendation by providing customers with the most suitable decision, our team has developed a solution which use AI technology. Our team will use machine learning to construct the recommendation system that learns from the customer’s past behavior and profile settings. Under customer profile settings, customer can input he or her dining preferences, such as favorite cuisine, food allergy, and past visit review. Besides customer profile, our service will also provide the second functionality as the search filter with different adjustable factors include geolocation distance, dining price and waiting time.
+
+We don't have enough customer profile database. We haven't finished the code for the recommendation system.
+
+This project can benefit the students in our school.
+
+We compared many other food recommendation apps and learn the structure of them to improve our application.
+
+We will finish the code project and test it with more data set.
+",,https://docs.google.com/presentation/d/1Za-pE8h1nXwY4nsCtMY6jYxBiM-tdGdU7hLJWCgR2w0/edit#slide=id.p,,"google-cloud, matrix, data",Penn State,,,yuxuanxia1998,Yuxuan,Xia,yuxuanxia1998@gmail.com,Pennsylvania State University,1,SummerSummerL,SummerSummerL,,lyxixixi@gmail.com,,,,,,,,,,,,,,,,
+HackPSU Overall - Tech,Blood Donor Finder,47,https://hackpsu-spring-2019.devpost.com/submissions/116098-blood-donor-finder,"Inspiration
+
+Blood for transfusions is always in short supply, so it would be very useful to find and contact nearby people who could donate in an emergency.
+
+What it does
+
+This project is a web app where people can sign up using their location, blood type, and phone number as a potential blood donor, and allows people in need of a blood donation to search for nearby donors and get their phone number. 
+
+How we built it
+
+Node.js and MongoDB on the backend, HTML, CSS, and JavaScript on the frontend. Heavy use of the Here maps APIs for location processing. Deployed to Heroku.
+
+Challenges we ran into
+
+Managing location data was quite awkward.
+
+Accomplishments that we're proud of
+
+Making an innovative and functional product in 24 hours.
+
+What we learned
+
+The important parts of an MVP, heroku
+
+What's next for Blood Donor Finder
+",,https://blood-donors-finder.herokuapp.com,,"node.js, heroku, mongodb, here-geocoder, here-map","Montgomery College, Penn State University",,,Denteyon,Htet Myat,Aung,htetmyataung2027@gmail.com,"Montgomery College, Pennsylvania State University",1,Artikash,Akash,Mozumdar,akashmozumdar@gmail.com,,,,,,,,,,,,,,,,
+HackPSU Overall - Tech,Project Cirno,85,https://hackpsu-spring-2019.devpost.com/submissions/116101-project-cirno,"Inspiration
+
+Hum not sure
+
+What it does
+
+Order management 
+
+How I built it
+
+Using JAVA
+
+Challenges I ran into
+
+Java Networking Java multithreading Java GUI Java data storage 
+
+Accomplishments that I'm proud of
+
+It runs.
+
+What I learned
+
+Java is cool
+
+What's next for Project Cirno
+
+Will use SQL and better UI
+",,https://github.com/FantasyReimu/Project-Cirno,,,Penn State,,,FantasyReimu,FantasyReimu,,fantasyreimu@gmail.com,Pennsylvania State University,0,,,,,,,,,,,,,,,,,,,,
+,ML,72,https://hackpsu-spring-2019.devpost.com/submissions/116103-ml,"This program uses train/test machine learning to teach itself to recognize the r and g character patterns based on a coded data list.
+",,https://github.com/amanvg1/ML,,python,Pennsylvania State University,,,zy-131,zy-131,,zyazadi2000@gmail.com,Pennsylvania State University,1,amanvg1,amanvg1,,avg47@psu.edu,,,,,,,,,,,,,,,,
+,ML,18,https://hackpsu-spring-2019.devpost.com/submissions/116104-ml,"This program attempts to teach the computer to distinguish between two choices through machine learning. 
+",,https://github.com/pkeshav9/ML,,python,PSU,,,pkeshav9,pkeshav9,,keshav.pranav3@gmail.com,Pennsylvania State University,0,,,,,,,,,,,,,,,,,,,,
+,Shopping-Cart,44,https://hackpsu-spring-2019.devpost.com/submissions/116106-shopping-cart,"Shopping-Cart
+
+A simple application created using React and Bootstrap: models shopping carts seen online. 
+",,https://github.com/simonysq/Shopping-Cart,,"javascript, css",Penn State,,,simonysq,simonysq,,shuoqiutrash@gmail.com,Pennsylvania State University,0,,,,,,,,,,,,,,,,,,,,
+,currency_cycle,63,https://hackpsu-spring-2019.devpost.com/submissions/116108-currency_cycle,"Inspiration
+
+I wanted to build a project and study for class at the same time.
+
+What it does
+
+Constructs a graph out of currency exchange rates and detects negative edge cycles (the arbitrage opportunities) using Bellman-Ford algorithm.
+
+How I built it
+
+I used C++.
+
+Challenges I ran into
+
+Implementing an efficient data structure for a very dense graph.
+
+Accomplishments that I'm proud of
+
+I wrote this relatively quickly.
+
+What's next for currency_cycle
+
+Live update/real-time visualization.
+",,https://github.com/IsaacT1123/currency_cycle,https://s3.amazonaws.com/challengepost/zip_files/production/42341/zip_files/currency_cycle.zip,c++,Pennsylvania State University,,,IsaacT1123,IsaacT1123,,isaac.thomas1060@gmail.com,Pennsylvania State University,0,,,,,,,,,,,,,,,,,,,,
+,hackpsu-flood-game,13,https://hackpsu-spring-2019.devpost.com/submissions/116109-hackpsu-flood-game,"hackpsu-flood-game
+
+Repository for the game we created at the HackPSU hackathon.
+",,https://github.com/tylerallgor/hackpsu-flood-game,https://s3.amazonaws.com/challengepost/zip_files/production/42342/zip_files/FloodGame.zip,java,Penn State,,,tylerallgor,Tyler,Allgor,tja5357@psu.edu,Pennsylvania State University,3,hjy5065,Hyewon,Yoo,hjy5065@psu.edu,skk5215,skk5215,,sihwankim2@gmail.com,ych2970,Changhun,Yeo,ych2970@gmail.com,,,,,,,,
+,Penn State Safewalk Request and Crime Reporter,57,https://hackpsu-spring-2019.devpost.com/submissions/116112-penn-state-safewalk-request-and-crime-reporter,"Inspiration
+
+Especially on college campuses, there is a need to keep people safe. However, there is no quick and efficient means of reporting events or requesting to have help getting home safe.
+
+What it does
+
+This simple website gets a student's location, asks for a quick description of what they are requesting, and configures an email to send to the local authorities for help. The whole process takes less than a minute, and saves people from having to make an awkward or uncomfortable phone call.
+
+How I built it
+
+Using the Google Maps API in js, we developed a HTML and CSS front end to create an interface in which the API geolocates the person's location and shows it using Longitude and Latitude on the map. Then fills in the location information, parses the text-boxes together, and configures an email in the local email host to send already filled out with all the information authorities will need.
+
+Challenges I ran into
+
+Considering Ryan and I have never worked with APIs, this has been a learning curve. We started from very little js knowledge and API knowledge to making something that actually works!
+
+Accomplishments that I'm proud of
+
+Everything!
+
+What I learned
+
+Using APIs is tough and involved. One little alteration can cause the entire GMap to disappear! 
+
+What's next for Penn State Safewalk Request and Crime Reporter
+
+Since we only just started, there is much more functionality to be added, a SNMP server needs to be created, and the UI can definitely be cleaned up.
+",,,,"html5, css3, javascript, google-maps",Penn State,,,justincolewalker,Justin,Walker,justincolewalker@gmail.com,Pennsylvania State University,1,rdh5327,Ryan,Hunt,rdh5327@psu.edu,,,,,,,,,,,,,,,,
+ Best Domain Registered with Domain.com (MLH),GeicoHire,55,https://hackpsu-spring-2019.devpost.com/submissions/116119-geicohire,"Inspiration
+
+GEICO hiring challenge
+
+What it does
+
+Streamline your hiring process with automated AI assessments, video transcoding, and automatic candidate scheduling.
+
+See pitch at:
+https://www.serenitybrain.com/Geico_Pitch.pptx
+",,https://www.serenitybrain.com/,https://s3.amazonaws.com/challengepost/zip_files/production/42393/zip_files/Geico.zip,"html, javascript, bootstrap, jquery, google-cloud",CU,,Domain.com,nl2673,Nelson,Lai,nl2673@columbia.edu,Columbia University in the City of New York,0,,,,,,,,,,,,,,,,,,,,
+Best Use of Google Cloud Platform (MLH),GeicoHire,55,https://hackpsu-spring-2019.devpost.com/submissions/116119-geicohire,"Inspiration
+
+GEICO hiring challenge
+
+What it does
+
+Streamline your hiring process with automated AI assessments, video transcoding, and automatic candidate scheduling.
+
+See pitch at:
+https://www.serenitybrain.com/Geico_Pitch.pptx
+",,https://www.serenitybrain.com/,https://s3.amazonaws.com/challengepost/zip_files/production/42393/zip_files/Geico.zip,"html, javascript, bootstrap, jquery, google-cloud",CU,,Domain.com,nl2673,Nelson,Lai,nl2673@columbia.edu,Columbia University in the City of New York,0,,,,,,,,,,,,,,,,,,,,
+HackPSU Overall - Tech,GeicoHire,55,https://hackpsu-spring-2019.devpost.com/submissions/116119-geicohire,"Inspiration
+
+GEICO hiring challenge
+
+What it does
+
+Streamline your hiring process with automated AI assessments, video transcoding, and automatic candidate scheduling.
+
+See pitch at:
+https://www.serenitybrain.com/Geico_Pitch.pptx
+",,https://www.serenitybrain.com/,https://s3.amazonaws.com/challengepost/zip_files/production/42393/zip_files/Geico.zip,"html, javascript, bootstrap, jquery, google-cloud",CU,,Domain.com,nl2673,Nelson,Lai,nl2673@columbia.edu,Columbia University in the City of New York,0,,,,,,,,,,,,,,,,,,,,
+Geico - AI Challenge,GeicoHire,55,https://hackpsu-spring-2019.devpost.com/submissions/116119-geicohire,"Inspiration
+
+GEICO hiring challenge
+
+What it does
+
+Streamline your hiring process with automated AI assessments, video transcoding, and automatic candidate scheduling.
+
+See pitch at:
+https://www.serenitybrain.com/Geico_Pitch.pptx
+",,https://www.serenitybrain.com/,https://s3.amazonaws.com/challengepost/zip_files/production/42393/zip_files/Geico.zip,"html, javascript, bootstrap, jquery, google-cloud",CU,,Domain.com,nl2673,Nelson,Lai,nl2673@columbia.edu,Columbia University in the City of New York,0,,,,,,,,,,,,,,,,,,,,
+Best Use of Google Cloud Platform (MLH),The Hunt,33,https://hackpsu-spring-2019.devpost.com/submissions/116124-the-hunt,"Inspiration
+
+Inspired by modern-day online dating apps, The Hunt is your all-in-one career app. Managers (Seekers) are able to post specific job listings for their teams and potential employees (Hunters) are able to swipe through and 
+
+What it does
+
+How we built it
+
+Challenges we ran into
+
+Accomplishments that we're proud of
+
+What we learned
+
+What's next for The Hunt
+",,https://github.com/jaykv/dragon-tinder-ai,,"python, javascript, microsoft-cognitive-services, gcp-dialogflow, ionic",Pennsylvania State University,,Google Cloud Platform,sophiabeyda,Sophia,Beyda,sophiabeyda@gmail.com,Pennsylvania State University,3,aqa5547,Akhil,Akkiraju,akkirajuakhil123@gmail.com,jkv5,Jay,Vyas,jkv5@psu.edu,aaryanoberoi22,Aaryan,Oberoi,aaryanoberoi22@gmail.com,,,,,,,,
+HackPSU Overall - Tech,The Hunt,33,https://hackpsu-spring-2019.devpost.com/submissions/116124-the-hunt,"Inspiration
+
+Inspired by modern-day online dating apps, The Hunt is your all-in-one career app. Managers (Seekers) are able to post specific job listings for their teams and potential employees (Hunters) are able to swipe through and 
+
+What it does
+
+How we built it
+
+Challenges we ran into
+
+Accomplishments that we're proud of
+
+What we learned
+
+What's next for The Hunt
+",,https://github.com/jaykv/dragon-tinder-ai,,"python, javascript, microsoft-cognitive-services, gcp-dialogflow, ionic",Pennsylvania State University,,Google Cloud Platform,sophiabeyda,Sophia,Beyda,sophiabeyda@gmail.com,Pennsylvania State University,3,aqa5547,Akhil,Akkiraju,akkirajuakhil123@gmail.com,jkv5,Jay,Vyas,jkv5@psu.edu,aaryanoberoi22,Aaryan,Oberoi,aaryanoberoi22@gmail.com,,,,,,,,
+Geico - AI Challenge,The Hunt,33,https://hackpsu-spring-2019.devpost.com/submissions/116124-the-hunt,"Inspiration
+
+Inspired by modern-day online dating apps, The Hunt is your all-in-one career app. Managers (Seekers) are able to post specific job listings for their teams and potential employees (Hunters) are able to swipe through and 
+
+What it does
+
+How we built it
+
+Challenges we ran into
+
+Accomplishments that we're proud of
+
+What we learned
+
+What's next for The Hunt
+",,https://github.com/jaykv/dragon-tinder-ai,,"python, javascript, microsoft-cognitive-services, gcp-dialogflow, ionic",Pennsylvania State University,,Google Cloud Platform,sophiabeyda,Sophia,Beyda,sophiabeyda@gmail.com,Pennsylvania State University,3,aqa5547,Akhil,Akkiraju,akkirajuakhil123@gmail.com,jkv5,Jay,Vyas,jkv5@psu.edu,aaryanoberoi22,Aaryan,Oberoi,aaryanoberoi22@gmail.com,,,,,,,,
+Best Use of Google Cloud Platform (MLH),Latin Gecko,30,https://hackpsu-spring-2019.devpost.com/submissions/116125-latin-gecko,"We are competing in the Geico AI challenge
+",,,https://s3.amazonaws.com/challengepost/zip_files/production/42389/zip_files/Submission.zip,"python, typescript, firebase, machine-learning, angular.js, javascript",Penn State University,,Google Cloud Platform,rbb5323,Randy,Blanco,rbb5323@psu.edu,Pennsylvania State University,2,Alejandroaas,Alejandro,Andrade,alejandro_liga@hotmail.com,johnathanvicente,,,johnathanvic@gmail.com,,,,,,,,,,,,
+Geico - AI Challenge,Latin Gecko,30,https://hackpsu-spring-2019.devpost.com/submissions/116125-latin-gecko,"We are competing in the Geico AI challenge
+",,,https://s3.amazonaws.com/challengepost/zip_files/production/42389/zip_files/Submission.zip,"python, typescript, firebase, machine-learning, angular.js, javascript",Penn State University,,Google Cloud Platform,rbb5323,Randy,Blanco,rbb5323@psu.edu,Pennsylvania State University,2,Alejandroaas,Alejandro,Andrade,alejandro_liga@hotmail.com,johnathanvicente,,,johnathanvic@gmail.com,,,,,,,,,,,,
+,Block Platformer,40,https://hackpsu-spring-2019.devpost.com/submissions/116127-block-platformer,"Inspiration
+
+We are both very interested in gaming and recognize the extreme popularity of Mario and his franchise. Neither of us have ever attempted to create something like this and that made us very motivated to see what we can accomplish in the given time frame.
+
+What it does
+
+We tried to emulate, to the best of our abilities, the very first level of the original Super Mario Bros. and all that it entails. It isn't finished, so we improvised to create a platforming challenge. Get from the bottom of the screen to the top and collide with the green block and you win!
+
+How we built it
+
+Using a library called Pygame which is a library that runs with Python. It provides a lot of very helpful functions and methods to help create games.
+
+Challenges we ran into
+
+Everything was a challenge. Pycharm is something neither of us have ever used so we had to first learn it, and what it could do, then apply that to re-creating Super Mario Bros. Getting the screen to scroll to reveal more level turned out to be a huge challenge that unfortunately wasn't able to be overcome.
+
+Accomplishments that we're proud of
+
+Jumping was surprisingly difficult so figuring that out is great as well as collision.
+
+What we learned
+
+The whole experience on trying to program a game and what goes into that.
+
+What's next for Block Platformer
+
+Get the screen to scroll and keep on adding elements from Super Mario Bros.
+",,https://github.com/Jok1r/HackPSU-Platformer,,"python, pygame",Pennsylvania State University,,,jmr6662,Joe,Reukauf,jmr6662@psu.edu,Pennsylvania State University,1,mkim145,Minhwan,Kim,mkim145@gmail.com,,,,,,,,,,,,,,,,
+ Best Domain Registered with Domain.com (MLH),BullyMe,71,https://hackpsu-spring-2019.devpost.com/submissions/116134-bullyme,"Inspiration
+
+The fact that we sometimes feel too good about ourselves
+
+What it does
+
+Sends you notifications 8 times a day with various insults about you, these are also personalized because of a questionnaire that you fill out when installing the app
+
+How I built it
+
+Android Studio
+
+Challenges I ran into
+
+Getting notifications to display even when the app is closed
+
+Accomplishments that I'm proud of
+
+Notifications will continue regardless of if the app is closed, phone locked, etc.
+
+What I learned
+
+A lot about notifications
+
+What's next for BullyMe
+
+A schedule that reminds you when you will be bullied next.
+",,https://github.com/illuzio571/bullyme,https://s3.amazonaws.com/challengepost/zip_files/production/42355/zip_files/bullyMe.zip,"java, android, android-studio","GACTC, Penn State Altoona",,Domain.com,illuzio571,Jeromy,McCorriston,illuzio571@yahoo.com,,1,dfreet219,Devyn,Freet,dfreet219@gmail.com,,,,,,,,,,,,,,,,
+HackPSU Overall - Tech,BullyMe,71,https://hackpsu-spring-2019.devpost.com/submissions/116134-bullyme,"Inspiration
+
+The fact that we sometimes feel too good about ourselves
+
+What it does
+
+Sends you notifications 8 times a day with various insults about you, these are also personalized because of a questionnaire that you fill out when installing the app
+
+How I built it
+
+Android Studio
+
+Challenges I ran into
+
+Getting notifications to display even when the app is closed
+
+Accomplishments that I'm proud of
+
+Notifications will continue regardless of if the app is closed, phone locked, etc.
+
+What I learned
+
+A lot about notifications
+
+What's next for BullyMe
+
+A schedule that reminds you when you will be bullied next.
+",,https://github.com/illuzio571/bullyme,https://s3.amazonaws.com/challengepost/zip_files/production/42355/zip_files/bullyMe.zip,"java, android, android-studio","GACTC, Penn State Altoona",,Domain.com,illuzio571,Jeromy,McCorriston,illuzio571@yahoo.com,,1,dfreet219,Devyn,Freet,dfreet219@gmail.com,,,,,,,,,,,,,,,,
+,Magic 8 Ball,53,https://hackpsu-spring-2019.devpost.com/submissions/116136-magic-8-ball,"Inspiration
+
+I need extra credit for cmpsc311
+
+What it does
+
+simulates a magic 8 ball toy
+
+How I built it
+
+coded in python
+
+Challenges I ran into
+
+N/A
+
+Accomplishments that I'm proud of
+
+getting it to work
+
+What I learned
+
+The requirements to get the extra credit is a lot more work than it seems. 
+
+What's next for Magic 8 Ball
+
+Nothing
+",,,https://s3.amazonaws.com/challengepost/zip_files/production/42349/zip_files/Magic8Ball.zip,python,Penn State,,,rfw5106,Ryan,Wu,rfw5106@psu.edu,Pennsylvania State University,0,,,,,,,,,,,,,,,,,,,,
+Lion LaunchPad SLO - Inventory Innovation,PSU NextGen Toolkit,82,https://hackpsu-spring-2019.devpost.com/submissions/116150-psu-nextgen-toolkit,"Inspiration
+
+We are juniors and seniors from the club Innoblue who is passionate about connecting students and encouraging the culture & mindset of entrepreneurship at Penn State University. When we realize that we want to build a startup, it's often too late. In addition to helping LaunchPad build this efficient smart cloud-based tool management system, we want to help build this community by connecting students and providing a strong network to get them going and change the world! 
+
+What it does
+
+PSU NextGen Toolkit allows managers at LaunchPad to help students find the best tool for building their products as well as PSU students to have a place to go for questions and brainstorming tools. 
+
+How we built it
+
+We first created the interface of the app in Xcode and Swift language to build functions for the buttons such as login. Then, we use Firebase to store the login information and Google Cloud for the tool database. Last but not least, we used Google AI platform to show analysis of monthly information. 
+
+Challenges we ran into
+
+Get the login work and create the database. Connect back-end system to front-end interface design. 
+
+Accomplishments that we're proud of
+
+All of us don't have very much coding experience and the fact that we get the app works is something we are extremely proud of. Also, we are creating a community for young entrepreneurs is what we really passionate about.
+
+What we learned
+
+We learned how to design an app in Xcode, SWIFT, and get the login work. Also, we learned how to use Firebase to connect with the user information and Google Cloud - Cloud SQL and AI analysis.  
+
+What's next for PSU NextENTR
+
+Expand features on the app such as building chatbox for students to communicate. Allow interactive 3D images of tools in the app. Develop feature that allows students to pick up items from the launchpad 
+",,,,"api, xcode, firebase, google-cloud, swift, c, rfid",Penn State University,,,JessicaJin,Jessica,Jin,jinyuusa12@gmail.com,"SUNY Stony Brook, Pennsylvania State University",1,JacobMakarsky,Jacob,Makarsky,jacobmakarsky@gmail.com,,,,,,,,,,,,,,,,
+Best Use of Google Cloud Platform (MLH),PSU NextGen Toolkit,82,https://hackpsu-spring-2019.devpost.com/submissions/116150-psu-nextgen-toolkit,"Inspiration
+
+We are juniors and seniors from the club Innoblue who is passionate about connecting students and encouraging the culture & mindset of entrepreneurship at Penn State University. When we realize that we want to build a startup, it's often too late. In addition to helping LaunchPad build this efficient smart cloud-based tool management system, we want to help build this community by connecting students and providing a strong network to get them going and change the world! 
+
+What it does
+
+PSU NextGen Toolkit allows managers at LaunchPad to help students find the best tool for building their products as well as PSU students to have a place to go for questions and brainstorming tools. 
+
+How we built it
+
+We first created the interface of the app in Xcode and Swift language to build functions for the buttons such as login. Then, we use Firebase to store the login information and Google Cloud for the tool database. Last but not least, we used Google AI platform to show analysis of monthly information. 
+
+Challenges we ran into
+
+Get the login work and create the database. Connect back-end system to front-end interface design. 
+
+Accomplishments that we're proud of
+
+All of us don't have very much coding experience and the fact that we get the app works is something we are extremely proud of. Also, we are creating a community for young entrepreneurs is what we really passionate about.
+
+What we learned
+
+We learned how to design an app in Xcode, SWIFT, and get the login work. Also, we learned how to use Firebase to connect with the user information and Google Cloud - Cloud SQL and AI analysis.  
+
+What's next for PSU NextENTR
+
+Expand features on the app such as building chatbox for students to communicate. Allow interactive 3D images of tools in the app. Develop feature that allows students to pick up items from the launchpad 
+",,,,"api, xcode, firebase, google-cloud, swift, c, rfid",Penn State University,,,JessicaJin,Jessica,Jin,jinyuusa12@gmail.com,"SUNY Stony Brook, Pennsylvania State University",1,JacobMakarsky,Jacob,Makarsky,jacobmakarsky@gmail.com,,,,,,,,,,,,,,,,
+HackPSU Overall - Tech,PSU NextGen Toolkit,82,https://hackpsu-spring-2019.devpost.com/submissions/116150-psu-nextgen-toolkit,"Inspiration
+
+We are juniors and seniors from the club Innoblue who is passionate about connecting students and encouraging the culture & mindset of entrepreneurship at Penn State University. When we realize that we want to build a startup, it's often too late. In addition to helping LaunchPad build this efficient smart cloud-based tool management system, we want to help build this community by connecting students and providing a strong network to get them going and change the world! 
+
+What it does
+
+PSU NextGen Toolkit allows managers at LaunchPad to help students find the best tool for building their products as well as PSU students to have a place to go for questions and brainstorming tools. 
+
+How we built it
+
+We first created the interface of the app in Xcode and Swift language to build functions for the buttons such as login. Then, we use Firebase to store the login information and Google Cloud for the tool database. Last but not least, we used Google AI platform to show analysis of monthly information. 
+
+Challenges we ran into
+
+Get the login work and create the database. Connect back-end system to front-end interface design. 
+
+Accomplishments that we're proud of
+
+All of us don't have very much coding experience and the fact that we get the app works is something we are extremely proud of. Also, we are creating a community for young entrepreneurs is what we really passionate about.
+
+What we learned
+
+We learned how to design an app in Xcode, SWIFT, and get the login work. Also, we learned how to use Firebase to connect with the user information and Google Cloud - Cloud SQL and AI analysis.  
+
+What's next for PSU NextENTR
+
+Expand features on the app such as building chatbox for students to communicate. Allow interactive 3D images of tools in the app. Develop feature that allows students to pick up items from the launchpad 
+",,,,"api, xcode, firebase, google-cloud, swift, c, rfid",Penn State University,,,JessicaJin,Jessica,Jin,jinyuusa12@gmail.com,"SUNY Stony Brook, Pennsylvania State University",1,JacobMakarsky,Jacob,Makarsky,jacobmakarsky@gmail.com,,,,,,,,,,,,,,,,
+Geico - AI Challenge,PSU NextGen Toolkit,82,https://hackpsu-spring-2019.devpost.com/submissions/116150-psu-nextgen-toolkit,"Inspiration
+
+We are juniors and seniors from the club Innoblue who is passionate about connecting students and encouraging the culture & mindset of entrepreneurship at Penn State University. When we realize that we want to build a startup, it's often too late. In addition to helping LaunchPad build this efficient smart cloud-based tool management system, we want to help build this community by connecting students and providing a strong network to get them going and change the world! 
+
+What it does
+
+PSU NextGen Toolkit allows managers at LaunchPad to help students find the best tool for building their products as well as PSU students to have a place to go for questions and brainstorming tools. 
+
+How we built it
+
+We first created the interface of the app in Xcode and Swift language to build functions for the buttons such as login. Then, we use Firebase to store the login information and Google Cloud for the tool database. Last but not least, we used Google AI platform to show analysis of monthly information. 
+
+Challenges we ran into
+
+Get the login work and create the database. Connect back-end system to front-end interface design. 
+
+Accomplishments that we're proud of
+
+All of us don't have very much coding experience and the fact that we get the app works is something we are extremely proud of. Also, we are creating a community for young entrepreneurs is what we really passionate about.
+
+What we learned
+
+We learned how to design an app in Xcode, SWIFT, and get the login work. Also, we learned how to use Firebase to connect with the user information and Google Cloud - Cloud SQL and AI analysis.  
+
+What's next for PSU NextENTR
+
+Expand features on the app such as building chatbox for students to communicate. Allow interactive 3D images of tools in the app. Develop feature that allows students to pick up items from the launchpad 
+",,,,"api, xcode, firebase, google-cloud, swift, c, rfid",Penn State University,,,JessicaJin,Jessica,Jin,jinyuusa12@gmail.com,"SUNY Stony Brook, Pennsylvania State University",1,JacobMakarsky,Jacob,Makarsky,jacobmakarsky@gmail.com,,,,,,,,,,,,,,,,
+,LionConsultantsCaseStudy,24,https://hackpsu-spring-2019.devpost.com/submissions/116152-lionconsultantscasestudy,"Inspiration
+
+Our inspiration was various different protocols and industry standards. We used those to create a baseline of security protocols to implement throughout a company. After that we also brainstormed some novel solutions to be implemented within larger or more data sensitive companies such as a faraday cage.
+
+What it does
+
+it's a presentation, it presents
+
+How we built it
+
+Challenges we ran into
+
+Accomplishments that we're proud of
+
+What we learned
+
+What's next for LionConsultantsCaseStudy
+",,https://github.com/Agangwani/HackPSUSpring19,,powerpoint,1,,,Agangwani,Agangwani,,agangwani3150@outlook.com,Pennsylvania State University,1,vqs5215,Vaibhav,Sharma,vqs5215@psu.edu,,,,,,,,,,,,,,,,
+,Random Restaurant,79,https://hackpsu-spring-2019.devpost.com/submissions/116154-random-restaurant,"How To Use
+
+Simple command line program that chooses a random restaurant from a user provided list.
+
+The list used is a txt file where each restaurant name is on a new line (see RestaurantList.txt for an example). This list must be in the same directory as the .jar file when running. Enter the file name as ""filename"".txt (without quotes).
+
+Run program by executing the .jar file (if you have paths set up) or use navigate to the .jar directory in command line and use ""java -jar ""ProgramName"".jar""
+
+Use ""quit"" when choosing a restaurant to close the program.
+",,https://github.com/AxisMaen/RandomRestaurant,,java,Pennsylvania State University,,,AxisMaen,AxisMaen,,mrr17matt@gmail.com,Pennsylvania State University,0,,,,,,,,,,,,,,,,,,,,
+,Playing Card Reader,81,https://hackpsu-spring-2019.devpost.com/submissions/116155-playing-card-reader,"Inspiration
+
+Our group wanted to expand our knowledge on building iOS applications as well as build a program that utilized Xcode's ARKit.  From there, we stumbled upon the idea to create an application that could view playing cards and determine which specific ones they were, as an idea for an essential building block to a future application where a computer can play cards with others through video recognition software rather than every player needing to play through the app.
+
+What it does
+
+Our app scans playing cards using the iPhone's camera and determines which card is being viewed.  From there, the card is displayed on the screen, as well as named aloud on the app.
+
+How we built it
+
+Kevin definitely took the lead on the project, not only because he had the most experience building iOS applications but also because he was the only one with a mac.  We utilized a variety of the new ARKit's functions within Xcode in order to create a database of recognized images, and then once our camera found one of these images it would process it depending on the name of the image, and do the two actions listed above (print the name of the card to the screen and read it aloud).
+
+Challenges we ran into
+
+We ran into three main challenges during this project (outside of coming up with an idea), two technical and one non-technical.  The first of the technical problems was getting the sound feature to work whenever the phone was set to silent, with its ringer turned off.  The second technical issue was getting the audio readout of the card name to not repeat itself.  We were able to combat the first of these through a lot of the help/manual pages within Xcode, whereas the second issue we were able to combat through changing our process of initiating a voice call out.  Rather than directly having the voice callout upon picture recognition, we moved it within its own function that was called upon video recognition, and added some code so that it only ran whenever the recognized image had changed, rather than every time the camera picked up the image.  The final issue, the non-technical one, was arguably the biggest issue that we faced.  In order to get our recognition software to work, we needed to have images of the cards we were trying to detect, and there were very few good images online.  We assumed that we would be able to fix this issue by scanning images of the cards ourselves, which we did, however due to the scanner we used not being high enough quality, the resolution of our images was not high enough for the program to work well.  With that, our program only works with a select group of cards, as they were the only ones with good enough images online.
+
+Accomplishments that we're proud of
+
+Our software works very well with the playing cards that we have images of, which is something that our group is very proud of.  Additionally, our group was satisfied with the fact that we added a text-to-speech aspect to our application.  Overall, the entire project was cool in our eyes, and we were happy with the amount of things that we learned throughout the process, both specific to developing applications through Xcode and swift, as well as general learning from working together as a team and just talking to each other about a variety of computer science and computer engineering topics.
+
+What we learned
+
+As above-mentioned, each member of our group was able to expand their knowledge on developing iOS applications through the use of swift and Xcode.  As with most group projects, we additionally felt that we gained some knowledge just by working together as a group, bouncing ideas off of each other and hearing different approaches to the same problem.  Finally, it cannot go understated that the remainder of the group learned a lot from Kevin, who gave a lot of knowledge on a variety of topics involving app development that were not even addressed during the creation of our program.
+
+What's next for Playing Card Reader
+
+The goal with our Playing Card Reader will be to eventually turn it into a program that can play cards with humans.  While this program could be implemented into a wide variety of card-playing games, our group specifically feels that it would work well with a turn-based card game, where players take turns throwing out a card in order to determine a winner (Euchre, Hearts, Spades, etc.).  This application would ""look"" at its own cards briefly to memorize them, do some calculations depending on the game, and then announce which card it would like to play upon its turn (most likely an index), at which point the other users playing the game would only need to flip over a card to play for the application.  This would be an exciting concept, as at least for me and my roommates personally, we always want to play card games together that require x amount of players (i.e. Euchre requires four players), but do not have enough.  Being able to use a video recognition software to have a computer play with us would not only be cool seeing the technology work, but would be something that we could use often
+",,https://github.com/keving-416/Playing-Card-Reader,https://s3.amazonaws.com/challengepost/zip_files/production/42359/zip_files/Playing_Card_Reader.zip,"swift, xcode",Penn State University - University Park,,,JakeMiller99,JakeMiller99,,jem6268@psu.edu,Pennsylvania State University,1,omarchammaa106,Omar,Chammaa,omarchammaa106@gmail.com,,,,,,,,,,,,,,,,
+,AttEnd,67,https://hackpsu-spring-2019.devpost.com/submissions/116157-attend,"Main goal: To eliminate the shortcomings of iClickers and add functionality to the common engagement app.
+
+What it does
+
+AttEnd is the brainchild of four students at the Pennsylvania State University: sophomore Ethan Graper and juniors Fatih Celep, James Brannen, and Peter Giammanco. Conceived with the idea to create an app to overcome the pitfalls of clickers and other student engagement tools, our vision is to create an app that not only tracks each student's attendance, but also offers functionality in the fields of student responses, including but not limited to quick response times and short answer questions (utilizing smartphone keyboards).
+
+How we built it
+
+We started developing with Visual Studio and then switched to Xcode after realizing some limitations. The ease of Xcode allowed us to seamlessly create the foundation of our app while teaching us more about common application development concepts and techniques. We also utilized Google's Firebase service, which is a free database / development assistant that made user authentication a cinch. We spent the majority of our time developing the application in Xcode and assuring that our pages were properly connected.
+
+Challenges we ran into
+
+Our first challenge (and easily our biggest) was that none of our members initially knew anything about app development. A significant amount of time was spent choosing how to make the app. A lot of options and factors were taken into consideration, including language complexity, ease of access, prices, implementation methods, cross-platform compatibility, and user-friendliness. Finally, the obvious challenge for our Hackathon project was that we were limited to 24 hours to learn the app development process of our choosing, practice it, and then utilize it to create a working app. We actually planned to make two versions of the app; one for Android and one for iOS, but we eventually scrapped this idea as it was way too overzealous to implement in a mere 24 hours. We didn't manage to create the app as we envisioned, but the process of learning and implementing application development skills were fundamental to our experience at HackPSU this year. 
+
+Accomplishments that we're proud of
+
+Although we didn't manage to finish our application in its full form, we managed to collaboratively create the framework for our first application and learn a lot more about the field of software development. We spent the night developing the application and laying down the groundwork to allow for all of our ideas about what we want Att
+End to be to come to fruition. This was our first experience with application development, and although we didn't finish development within 24 hours, we plan to expand upon this experience and maybe one day fully realize this application's capabilities.
+
+What we learned
+
+The entire process, from conception of the app to completion of our first few pages in Xcode (including a sign-up / sign-in screen with backing from Google Firebase), has taught the group a tremendous amount about both front-end and back-end application development, Xcode, Visual Studio, and other software development tools and techniques.
+
+What's next for AttEnd?
+
+In the future, we'd like to actually make the attendance feature work, as well as include short-answer responses and more advanced attendance checking policies (i.e individual procedurally generated passwords required to sign into a session, number of missed lectures, etc.). We would plan for the app to replace clickers and even serve as a platform for in-class quizzes. A page with extensive statistics on a user's performance and attendance would help students consistently attend class. Our plans also include adding a class discussion page similar to the likes of Piazza. The best version of our app would be able to replace clickers, Canvas, and Piazza all in one place while providing even more features.
+
+Once this is done, we would love to implement cross-platform functionality to fully realize our vision of making the app easy to use for all students, as most everyone these days has some form of smartphone. Finally, in the future, we would like to see the app take on a more general role, with support for other fields including but not limited to business administration, workplace collaboration, and general polling and attendance for the common consumer. 
+",,https://github.com/CaptainGuac/AttEndiOS,,"visual-studio, c#, xcode, firebase, swift",The Pennsylvania State University- University Park,,,Fzc5099,Fatih,Celep,fzc5099@psu.edu,Pennsylvania State University,3,crabby135,crabby135,,jimmybrannon@comcast.net,egrapes21,Ethan,Graper,egrapes21@gmail.com,giammancopeter,Peter,Giammanco,giammancopeter@gmail.com,,,,,,,,
+HackPSU Overall - Tech,FairAvocado,36,https://hackpsu-spring-2019.devpost.com/submissions/116158-fairavocado,"FairAvocado
+
+HackPSU project to check if the avocado price is fair.
+DataSet is from kaggle.com:
+https://www.kaggle.com/neuromusic/avocado-prices#avocado.csv
+
+Inspiration:
+
+These days sometimes it is hard to tell if the price of avocado is fair or not since U.S. avocado market prices rise sharply and many stores might value them very differently.
+
+What it does:
+
+This program is going to compare the avocado price that user input to the average price of avocado in certain region and certain type, then gives user immediately feedback about if the price of the avocado that user is looking is fair to purchase or not. While running Data_GUI.py, the result will pop up so far, but we will continue to further improve it. 
+
+How we built it:
+
+We firstly get a dataset of the avocado price and sales information from Kaggle. Then we clean up and calculate average price of avocado for different regions and types into a new table. Afterward, we use python to write an app and program to compare the user input (region, type, price) to our database. After appropriate analyzing, we provide the result of (fair, unfair) to user.
+
+Challenges we ran into:
+
+We need to figure out how to correctly use the tkinter library. We need to search the documents thoroughly to avoid bugs. We plan to present our result in the box at first, but we find a better way to present our results—pop up windows. 
+
+Accomplishments that we’re proud of:
+
+We finally meet our goal!
+
+What we learned:
+
+We learned a lot from troubleshooting and self-learning during the process of creating this program.
+
+What’s next for it:
+
+To build it into a more user-friendly and informative app and include more dataset into our database to do more analysis not only the price of avocado.
+
+Built With:
+
+Python, R, Kaggle Data
+",,https://github.com/YvnGong/FairAvocado,https://s3.amazonaws.com/challengepost/zip_files/production/42360/zip_files/Hackthon_Submission.zip,"python, r",Penn State University,,,ypg5063,Yiyun,Gong,ypg5063@psu.edu,"Pennsylvania State University, Penn State",3,jxl6277,Jialong,Li,jxl6277@psu.edu,avl5756,avl5756,,avl5756@psu.edu,codemons,codemons,,li2546014173@hotmail.com,,,,,,,,
+HackPSU Overall - Tech,3d holographic display,59,https://hackpsu-spring-2019.devpost.com/submissions/116160-3d-holographic-display,"We all liked calc 3. This was our first step in visualizing the stuff in calc 3
+",https://www.youtube.com/watch?v=mAiwanRgGBw&feature=youtu.be,https://github.com/rahulsanjay18/hackpsu19,,"c++, html, makefile",Penn State,,,rahulsanjay18,Rahul,Shah,rahulsanjay18@gmail.com,Pennsylvania State University,3,fengmaster4689,Andrew,Feng,fengmaster4689@gmail.com,venerjoel99,venerjoel99,,84veneracionj@gmail.com,dcl5255,dcl5255,,dcl5255@psu.edu,,,,,,,,
+HackPSU Overall - Tech,HackPSU_DiscordBot,26,https://hackpsu-spring-2019.devpost.com/submissions/116163-hackpsu_discordbot,"Inspiration
+
+Two of our members use Discord and we decided to create a bot that would work with Discord to respond to users when using specific commands
+
+What it does
+
+There is a list of commands under !help that the bot is able to execute such as !currency to find the exchange rate of different currencies, !lurking to find the last time a user posted, and !rps for rock paper scissors to name a few
+
+How I built it
+
+We used python and each worked on a few commands that we were interested in adding to the bot. 
+
+Challenges I ran into
+
+For certain commands such as time and currency, for example, we needed to download special API's to help gather the data for us and then we could easily implement it into our bot.
+
+Accomplishments that I'm proud of
+
+We are proud that everything works properly and we an now work on this in our own time
+
+What I learned
+
+We learned how to create and modify a discord bot using python and now we have the knowledge of how to do this on our own if we wanted to create another bot for our server.
+
+What's next for HackPSU_submission
+
+We decided that we would work on the bot on our own time to better fit the needs of the servers we use.
+",,https://github.com/gerarar/hackpsu,,python,Pennsylvania State University,,,szm5944,Suraj,Nair,szm5944@psu.edu,Pennsylvania State University,2,gxp50,Gerard,Patungan,gxp50@psu.edu,-Silverwolfstar-,,,summit99kuo@gmail.com,,,,,,,,,,,,
+Best IoT Hack using a Qualcomm Device (MLH),Package Buddy,56,https://hackpsu-spring-2019.devpost.com/submissions/116166-package-buddy,"Inspiration
+
+When we saw the challenge for an IoT build, we realized we had never done something like that and it sounded like there'd be some cool things to learn. We weren't sure what to do since a lot of things are becoming IoT but we thought something like packages in shipping would be an interesting thing to work on since we recently got a package in the mail, unboxed it, and realized it had been damaged in shipping. It seemed practical and interesting so we thought we'd make something for it.
+
+What it does
+
+Our product takes the functionality of the Dragonboard 410c to collect data on packages in transit. It checks for jostling of the package via an accelerometer, which looks for sudden changes in acceleration that could be large enough to damage different types of packages.
+
+The Hardware
+We used the Dragonboard 410c as a mini computer, loaded with Unbuntu, to collect data through the arduino software. We used the GPIO pins on the 410c and an external board to link sensors that the arduino software would be able to use. We use an accelerometer to collect data through the arduino software and process the acceleration values to a scale that rates the danger of certain packages being damaged.
+
+The Software
+We started the data collection through the arduino software, and after taking the acceleration values, we sent them to a text file via Python that works in tandem with the arduino software. Afterwards this text file is sent to an online database where we are able to retrieve remotely between devices. On top of this, we also use this information from the text file to create a GUI that is user friendly for the costumer and the producer. 
+
+How we built it
+
+We made the physical model of the sensor box by strapping down the parts into a cardboard box and cutting holes to accommodate our wires and parts. The software side of it was designed as we went along the project in order to accommodate our need to collect and manipulate data. 
+
+Challenges We Faced
+
+One of the biggest challenges we ran into was the extracting of the data from the arduino software. We were unsure of how to get the recorded values out of the software, so we can manipulate it and show it in a way that we wanted. We figured that we needed to extract the data into another platform in order to manipulate and present our data in an understandable way. Our greatest difficulty was trying to figure out a way to print the sensor's data into a text file. We tried to utilize many types of software programs in order to make this possible, and eventually we found a method that worked for what we needed it to do.
+
+Accomplishments that we're proud of
+
+One accomplishment we had was the first startup of our Dragonboard 410c loaded with Linux, which was also our first milestone in this project. We had tried to get the OS installed and we ran into some problems in hardware and software that we eventually found solutions to.
+
+Another accomplishment was finally being able to write our data to a text file, since this was the most time consuming and frustrating part of the project. Afterwards, we were able to use the data we had and check the status of our package via the acceleration changes.
+
+What we learned
+
+We learned how to use microcomputers and get data from them to the internet via the arduino and processing software. We also learned how to make and use the IoT Integrated System.
+
+What's next for Package Buddy
+
+
+Improve the Interfaces 
+Add more functionality and interactive elements to website
+Improve and refine our method of data collection and extraction
+
+",,,,"dragonboard-410c, arduino, sensors, processing-ide, java, putty, linux",Pennsylvania State University,DragonBoard 410C,Qualcomm,anb5731,Anthony,Brigidi,anb5731@psu.edu,Pennsylvania State University,2,YangShizzle,Yang,,yanglin501st@yahoo.com,tint3dgreen,tint3dgreen,,carscott@optonline.net,,,,,,,,,,,,
+HackPSU - IoT Workshop Challenge,Package Buddy,56,https://hackpsu-spring-2019.devpost.com/submissions/116166-package-buddy,"Inspiration
+
+When we saw the challenge for an IoT build, we realized we had never done something like that and it sounded like there'd be some cool things to learn. We weren't sure what to do since a lot of things are becoming IoT but we thought something like packages in shipping would be an interesting thing to work on since we recently got a package in the mail, unboxed it, and realized it had been damaged in shipping. It seemed practical and interesting so we thought we'd make something for it.
+
+What it does
+
+Our product takes the functionality of the Dragonboard 410c to collect data on packages in transit. It checks for jostling of the package via an accelerometer, which looks for sudden changes in acceleration that could be large enough to damage different types of packages.
+
+The Hardware
+We used the Dragonboard 410c as a mini computer, loaded with Unbuntu, to collect data through the arduino software. We used the GPIO pins on the 410c and an external board to link sensors that the arduino software would be able to use. We use an accelerometer to collect data through the arduino software and process the acceleration values to a scale that rates the danger of certain packages being damaged.
+
+The Software
+We started the data collection through the arduino software, and after taking the acceleration values, we sent them to a text file via Python that works in tandem with the arduino software. Afterwards this text file is sent to an online database where we are able to retrieve remotely between devices. On top of this, we also use this information from the text file to create a GUI that is user friendly for the costumer and the producer. 
+
+How we built it
+
+We made the physical model of the sensor box by strapping down the parts into a cardboard box and cutting holes to accommodate our wires and parts. The software side of it was designed as we went along the project in order to accommodate our need to collect and manipulate data. 
+
+Challenges We Faced
+
+One of the biggest challenges we ran into was the extracting of the data from the arduino software. We were unsure of how to get the recorded values out of the software, so we can manipulate it and show it in a way that we wanted. We figured that we needed to extract the data into another platform in order to manipulate and present our data in an understandable way. Our greatest difficulty was trying to figure out a way to print the sensor's data into a text file. We tried to utilize many types of software programs in order to make this possible, and eventually we found a method that worked for what we needed it to do.
+
+Accomplishments that we're proud of
+
+One accomplishment we had was the first startup of our Dragonboard 410c loaded with Linux, which was also our first milestone in this project. We had tried to get the OS installed and we ran into some problems in hardware and software that we eventually found solutions to.
+
+Another accomplishment was finally being able to write our data to a text file, since this was the most time consuming and frustrating part of the project. Afterwards, we were able to use the data we had and check the status of our package via the acceleration changes.
+
+What we learned
+
+We learned how to use microcomputers and get data from them to the internet via the arduino and processing software. We also learned how to make and use the IoT Integrated System.
+
+What's next for Package Buddy
+
+
+Improve the Interfaces 
+Add more functionality and interactive elements to website
+Improve and refine our method of data collection and extraction
+
+",,,,"dragonboard-410c, arduino, sensors, processing-ide, java, putty, linux",Pennsylvania State University,DragonBoard 410C,Qualcomm,anb5731,Anthony,Brigidi,anb5731@psu.edu,Pennsylvania State University,2,YangShizzle,Yang,,yanglin501st@yahoo.com,tint3dgreen,tint3dgreen,,carscott@optonline.net,,,,,,,,,,,,
+HackPSU Overall - Tech,Package Buddy,56,https://hackpsu-spring-2019.devpost.com/submissions/116166-package-buddy,"Inspiration
+
+When we saw the challenge for an IoT build, we realized we had never done something like that and it sounded like there'd be some cool things to learn. We weren't sure what to do since a lot of things are becoming IoT but we thought something like packages in shipping would be an interesting thing to work on since we recently got a package in the mail, unboxed it, and realized it had been damaged in shipping. It seemed practical and interesting so we thought we'd make something for it.
+
+What it does
+
+Our product takes the functionality of the Dragonboard 410c to collect data on packages in transit. It checks for jostling of the package via an accelerometer, which looks for sudden changes in acceleration that could be large enough to damage different types of packages.
+
+The Hardware
+We used the Dragonboard 410c as a mini computer, loaded with Unbuntu, to collect data through the arduino software. We used the GPIO pins on the 410c and an external board to link sensors that the arduino software would be able to use. We use an accelerometer to collect data through the arduino software and process the acceleration values to a scale that rates the danger of certain packages being damaged.
+
+The Software
+We started the data collection through the arduino software, and after taking the acceleration values, we sent them to a text file via Python that works in tandem with the arduino software. Afterwards this text file is sent to an online database where we are able to retrieve remotely between devices. On top of this, we also use this information from the text file to create a GUI that is user friendly for the costumer and the producer. 
+
+How we built it
+
+We made the physical model of the sensor box by strapping down the parts into a cardboard box and cutting holes to accommodate our wires and parts. The software side of it was designed as we went along the project in order to accommodate our need to collect and manipulate data. 
+
+Challenges We Faced
+
+One of the biggest challenges we ran into was the extracting of the data from the arduino software. We were unsure of how to get the recorded values out of the software, so we can manipulate it and show it in a way that we wanted. We figured that we needed to extract the data into another platform in order to manipulate and present our data in an understandable way. Our greatest difficulty was trying to figure out a way to print the sensor's data into a text file. We tried to utilize many types of software programs in order to make this possible, and eventually we found a method that worked for what we needed it to do.
+
+Accomplishments that we're proud of
+
+One accomplishment we had was the first startup of our Dragonboard 410c loaded with Linux, which was also our first milestone in this project. We had tried to get the OS installed and we ran into some problems in hardware and software that we eventually found solutions to.
+
+Another accomplishment was finally being able to write our data to a text file, since this was the most time consuming and frustrating part of the project. Afterwards, we were able to use the data we had and check the status of our package via the acceleration changes.
+
+What we learned
+
+We learned how to use microcomputers and get data from them to the internet via the arduino and processing software. We also learned how to make and use the IoT Integrated System.
+
+What's next for Package Buddy
+
+
+Improve the Interfaces 
+Add more functionality and interactive elements to website
+Improve and refine our method of data collection and extraction
+
+",,,,"dragonboard-410c, arduino, sensors, processing-ide, java, putty, linux",Pennsylvania State University,DragonBoard 410C,Qualcomm,anb5731,Anthony,Brigidi,anb5731@psu.edu,Pennsylvania State University,2,YangShizzle,Yang,,yanglin501st@yahoo.com,tint3dgreen,tint3dgreen,,carscott@optonline.net,,,,,,,,,,,,
+,Calculator,45,https://hackpsu-spring-2019.devpost.com/submissions/116167-calculator,"Inspiration
+
+Wanted to get more familiar with graphics therefore started off with something basic that we already know in terms of how it logically works i.e. arithmetic operations.
+
+What it does
+
+Works as a standard calculator but only takes two inputs at once
+
+How we built it
+
+Using java fx applications in netbeans
+
+Challenges we ran into
+
+Using more than two inputs
+
+Accomplishments that we're proud of
+
+Able to create a calculator using graphics in a short period of time
+
+What we learned
+
+We improved our knowledge regarding to panes i.e HBox, VBox, and others
+
+What's next for Calculator
+
+Update it to work for more than two inputs, and be able to modify the calculator according to personal needs. In addition to even expand it into a scientific calculator.
+",,,https://s3.amazonaws.com/challengepost/zip_files/production/42368/zip_files/Calculator.zip,"netbeans, java",Penn State,,,mxp5558,Mihir,Patel,mxp5558@psu.edu,Pennsylvania State University,1,pcp5086,Priyank,Patel,pcp5086@psu.edu,,,,,,,,,,,,,,,,
+HackPSU Overall - Tech,"BitLegal, by R-Rusty",12,https://hackpsu-spring-2019.devpost.com/submissions/116168-bitlegal-by-r-rusty,"Inspiration
+
+Our inspiration for this web application came from some of the recent news developments regarding data privacy concerns. We realized that part of the problem is that our legal system requires everyday people to accept complex agreements that they don't have the time or training to read through and fully understand. And this unrealistic expectation causes a severe lack of understanding not only in End User License Agreements, but also in personal and financial contracts, such as Employment Contracts, Mortgages, etc. 
+
+What it does
+
+Our website will take your document and parse it for standardized legal clauses and terms, and then present to you the meaning of each part of the contract. We do this with a tiered system. First, we use ""legal clauses"" as the larger structure of the documents. Second, we use ""legal terms,"" which are phrases and individual words that have a very specific meaning in a legal context. Users can then view all of this information together, making the contract far more understandable than its original copy written in ""legalese."" This way, everyone can begin to understand just what they are getting themselves into the next time they have to sign a legally binding document.
+
+How we built it
+
+We built out our website as a web application with R-Shiny. 
+
+Challenges we ran into
+
+Because we didn't have the time or training to invest in other APIs, or write custom code in HTML and/or CSS, we had to get very creative to pull off all of the site features that we wanted using only R-Shiny. For example, R-Shiny doesn't exactly shine when it comes to animating interactive text features, so we had to combine a built-in drop-down menu with a basic text box for the legal clause descriptions. 
+
+Aside from the UI challenges, we also had to have an algorithm to properly search the document. We experimented with mixing a bit of the built-in R fuzzy text search function with some of our own tweaks and optimizations. 
+
+Accomplishments that we're proud of
+
+It works?!
+
+What we learned
+
+First and foremost, we learned a lot of valuable soft skills from our project. We learned the importance of communication, patience, and how important is was to invest time into project management and organization, to make sure that everyone's workflow is aligned to add value to our end goal.
+
+Secondly, we learned a lot about fuzzy text matching. There are many ways to communicate the same essence of information in English, and making sure that a) we pick up all of the right information and b) pick up little to no misinformation are surprisingly different and complex tasks. Ultimately, we had to rethink the very structures of grammar and syntax in order to apply a more supervised approach, which struck a balance that we were all happy with.
+
+What's next for BitLegal, by R-Rusty
+
+We're considering taking our idea live. We can get web hosting and continue to develop to site while collecting data from users to help pay the bills. 
+",,,https://s3.amazonaws.com/challengepost/zip_files/production/42390/zip_files/Hackpsu_R_Rusty_2.zip,"r, shiny",Penn State University,,,mgcallahan15,Michael,Callahan,mgcallahan15@gmail.com,Pennsylvania State University,3,CyberMobius,Brian,,brimyth@gmail.com,leiluwei4221,Luwei,Lei,leiluwei4221@gmail.com,YuxinZhang9615,Yuxin,Zhang,yuxinzhang9615@gmail.com,,,,,,,,
+Geico - AI Challenge,"BitLegal, by R-Rusty",12,https://hackpsu-spring-2019.devpost.com/submissions/116168-bitlegal-by-r-rusty,"Inspiration
+
+Our inspiration for this web application came from some of the recent news developments regarding data privacy concerns. We realized that part of the problem is that our legal system requires everyday people to accept complex agreements that they don't have the time or training to read through and fully understand. And this unrealistic expectation causes a severe lack of understanding not only in End User License Agreements, but also in personal and financial contracts, such as Employment Contracts, Mortgages, etc. 
+
+What it does
+
+Our website will take your document and parse it for standardized legal clauses and terms, and then present to you the meaning of each part of the contract. We do this with a tiered system. First, we use ""legal clauses"" as the larger structure of the documents. Second, we use ""legal terms,"" which are phrases and individual words that have a very specific meaning in a legal context. Users can then view all of this information together, making the contract far more understandable than its original copy written in ""legalese."" This way, everyone can begin to understand just what they are getting themselves into the next time they have to sign a legally binding document.
+
+How we built it
+
+We built out our website as a web application with R-Shiny. 
+
+Challenges we ran into
+
+Because we didn't have the time or training to invest in other APIs, or write custom code in HTML and/or CSS, we had to get very creative to pull off all of the site features that we wanted using only R-Shiny. For example, R-Shiny doesn't exactly shine when it comes to animating interactive text features, so we had to combine a built-in drop-down menu with a basic text box for the legal clause descriptions. 
+
+Aside from the UI challenges, we also had to have an algorithm to properly search the document. We experimented with mixing a bit of the built-in R fuzzy text search function with some of our own tweaks and optimizations. 
+
+Accomplishments that we're proud of
+
+It works?!
+
+What we learned
+
+First and foremost, we learned a lot of valuable soft skills from our project. We learned the importance of communication, patience, and how important is was to invest time into project management and organization, to make sure that everyone's workflow is aligned to add value to our end goal.
+
+Secondly, we learned a lot about fuzzy text matching. There are many ways to communicate the same essence of information in English, and making sure that a) we pick up all of the right information and b) pick up little to no misinformation are surprisingly different and complex tasks. Ultimately, we had to rethink the very structures of grammar and syntax in order to apply a more supervised approach, which struck a balance that we were all happy with.
+
+What's next for BitLegal, by R-Rusty
+
+We're considering taking our idea live. We can get web hosting and continue to develop to site while collecting data from users to help pay the bills. 
+",,,https://s3.amazonaws.com/challengepost/zip_files/production/42390/zip_files/Hackpsu_R_Rusty_2.zip,"r, shiny",Penn State University,,,mgcallahan15,Michael,Callahan,mgcallahan15@gmail.com,Pennsylvania State University,3,CyberMobius,Brian,,brimyth@gmail.com,leiluwei4221,Luwei,Lei,leiluwei4221@gmail.com,YuxinZhang9615,Yuxin,Zhang,yuxinzhang9615@gmail.com,,,,,,,,
+ Best Domain Registered with Domain.com (MLH),SummarAIze,84,https://hackpsu-spring-2019.devpost.com/submissions/116169-summaraize,"Inspiration
+
+We were inspired by the nature of anything involving natural language generation models, and just wanted to make something significant.
+
+What it does
+
+Using the Markov Chain Natural Language Generation Model, we created a fun application that creates humorous rehashes of contemporary literature, or basically anything, really.
+
+How we built it
+
+Node J S
+
+Challenges we ran into
+
+Interfacing between multiple technologies proved to be really difficult.
+
+Accomplishments that we're proud of
+
+Working together in a group of friends to do something fun and educational.
+
+What we learned
+
+We learned the power of  teamwork.
+
+What's next for SummarAIze
+
+We hope to make it more accessible to people anywhere, anytime.
+",,,,node.js,The Pennsylvania State University,,Domain.com,joshua-yan,joshua-yan,,joshuayan99@gmail.com,Pennsylvania State University,0,,,,,,,,,,,,,,,,,,,,
+EY Tech Challenge,SummarAIze,84,https://hackpsu-spring-2019.devpost.com/submissions/116169-summaraize,"Inspiration
+
+We were inspired by the nature of anything involving natural language generation models, and just wanted to make something significant.
+
+What it does
+
+Using the Markov Chain Natural Language Generation Model, we created a fun application that creates humorous rehashes of contemporary literature, or basically anything, really.
+
+How we built it
+
+Node J S
+
+Challenges we ran into
+
+Interfacing between multiple technologies proved to be really difficult.
+
+Accomplishments that we're proud of
+
+Working together in a group of friends to do something fun and educational.
+
+What we learned
+
+We learned the power of  teamwork.
+
+What's next for SummarAIze
+
+We hope to make it more accessible to people anywhere, anytime.
+",,,,node.js,The Pennsylvania State University,,Domain.com,joshua-yan,joshua-yan,,joshuayan99@gmail.com,Pennsylvania State University,0,,,,,,,,,,,,,,,,,,,,
+HackPSU Overall - Tech,SummarAIze,84,https://hackpsu-spring-2019.devpost.com/submissions/116169-summaraize,"Inspiration
+
+We were inspired by the nature of anything involving natural language generation models, and just wanted to make something significant.
+
+What it does
+
+Using the Markov Chain Natural Language Generation Model, we created a fun application that creates humorous rehashes of contemporary literature, or basically anything, really.
+
+How we built it
+
+Node J S
+
+Challenges we ran into
+
+Interfacing between multiple technologies proved to be really difficult.
+
+Accomplishments that we're proud of
+
+Working together in a group of friends to do something fun and educational.
+
+What we learned
+
+We learned the power of  teamwork.
+
+What's next for SummarAIze
+
+We hope to make it more accessible to people anywhere, anytime.
+",,,,node.js,The Pennsylvania State University,,Domain.com,joshua-yan,joshua-yan,,joshuayan99@gmail.com,Pennsylvania State University,0,,,,,,,,,,,,,,,,,,,,
+HackPSU Overall - Tech,Dungeons and Dragons Alignment Determiner,64,https://hackpsu-spring-2019.devpost.com/submissions/116170-dungeons-and-dragons-alignment-determiner,"Inspiration
+
+We really liked dungeons and dragons and thought this would be cool
+
+What it does
+
+Answer 8 questions determines what alignment you are
+
+How we built it
+
+Object oriented programming and top down design
+
+Challenges we ran into
+
+String errors
+
+Accomplishments that we're proud of
+
+Very scalable and clean cod
+
+What we learned
+
+Better clean coding practices
+
+What's next for Dungeons and Dragons Alignment Determiner
+
+Add more questions!
+",,https://github.com/Vivdaddy/HackPSU2019/blob/master/DD.py,https://s3.amazonaws.com/challengepost/zip_files/production/42369/zip_files/Dungeons_and_Dragons.zip,python,The Pennsylvania State University,,,vja5074,Vivek,Anand,vja5074@psu.edu,Pennsylvania State University,1,snm5333,Sydney,Montgomery,snm5333@psu.edu,,,,,,,,,,,,,,,,
+HackPSU Overall - Tech,abortnite,39,https://hackpsu-spring-2019.devpost.com/submissions/116171-abortnite,"Inspiration
+
+NOTE: This is also for CMPSC311 extra credit.
+
+My little brother loved to play fortnite for long long periods of time, so my parents tasked me with controlling that somehow. I had a rudimentary working version before HACKPSU, but my new implementation is much much more efficient.
+
+What it does
+
+This program will schedule a script to be run every 5 minutes via the windows task scheduler. When this script detects that fortnite (or any other program specified) is running in the tasklist, it will subtract 5 minutes from a set amount of time. This time variable will be kept in memory until it detects that the app is closed. This frequency can be modified easily but checking too frequently/infrequently can result in performance/accuracy issues. 5 minutes is sort of a sweet spot.
+
+The file will contain the day number and the time left. The above script will also check the day number every time it executes, and when the day number does not match what is in the file, the time left is reset.
+
+How I built it
+
+I used python's os module to make system calls as well as return values from system calls, as well as the json module since I stored the file in a json format. The script is also a .pyw format, so it does not have a console window and runs hidden in the background.
+
+Challenges I ran into
+
+My original naive implementation was massively inefficient since it basically had to run in the background whenever the computer was on. I have yet to measure the FPS difference in games when this script is running or not, but I will do so in the future.
+
+A bigger challenge is having the file stored locally in the system where it can be edited easily if found. Currently, I just have it in a hidden directory, but in the future I plan to either encrypt this file or have a simple web server keep track of this info instead. (the latter is more likely)
+
+Accomplishments that I'm proud of
+
+I'm proud to have been able to apply my skills to a real-world problem that was very close to home. My parents were very happy that I was able to address this problem, and I'm sure that my family is not the only one suffering from ""fortnite syndrome"".
+
+What I learned
+
+I learned how to use the windows task scheduler as well as how to use the python os module to make system calls. It helped me to ""look under the hood"" at the underlying systems of windows and gave me more appreciation of the OS's we take for granted.
+
+What's next for abortnite
+
+I am planning to have a webserver hosted either on a cloud service or my own PC to more effectively and securely keep track of the time data.
+I also plan to send this repo to friends who also have gamer siblings.
+",,https://github.com/matthewli125/abortnite,,python,Pennsylvania State University,,,mwl5628,Matthew,Li,matthewli2010qsi@gmail.com,Pennsylvania State University,0,,,,,,,,,,,,,,,,,,,,
+HackPSU Overall - Tech,LLPRO Version 2,48,https://hackpsu-spring-2019.devpost.com/submissions/116172-llpro-version-2,"Inspiration
+
+A strong passion for learning different languages.
+
+What it does
+
+Tests your knowledge in learning different languages. The program will start off with the selection of the language and environment of your choosing. You should select the language that you want to practice, followed by the environment that you are currently in. Then it will proceed with displaying a word (noun; most likely an object) that is most likely found in that environment that will be presented in. It will pronounce the word when clicked on then prompt you to use your camera. You then have to find the object in question (such as pen) and actively seek the object in order to take a photo of it. The program will then tell you whether or not you got it right.
+
+How I built it
+
+Using 2 of google's Cloud APIs. 
+1 - Text to speech
+2- Vision API
+
+Challenges I ran into
+
+1 - Implementing the APIs into the code in an efficient manner.
+2 - Allowing for the use of the camera and using the photo taken to trigger Google's Vision API
+
+Accomplishments that I'm proud of
+
+Getting better at integrating and using APIs within my code.
+
+What I learned
+
+The importance of file location and the management of different files for clean code.
+",,,https://s3.amazonaws.com/challengepost/zip_files/production/42370/zip_files/LLProFinal.zip,python,Penn State,,Google Cloud Platform,Ammuri,,,oma5128@psu.edu,Pennsylvania State University,0,,,,,,,,,,,,,,,,,,,,
+HackPSU Overall - Tech,Turtle Polygon Generator,49,https://hackpsu-spring-2019.devpost.com/submissions/116173-turtle-polygon-generator,"Inspiration
+
+I like turtles, shapes, and pythons
+
+What it does
+
+you enter the number of sides you want your shape to be and a turtle mkaes that shape for you.
+
+How we built it
+
+python
+
+Challenges we ran into
+
+it only does random colors and we cant figure out how to choose colors so if you dont like pink your gonna be outta luck.
+
+Accomplishments that we're proud of
+
+there was a lot of fighting between teamates about what project we were going to do, so i am proud that we all came to an agreement and were able to compromise, which is an acomplishment in and of itself.
+
+What we learned
+
+that the python library runs deep and has a lot of cool features if you look hard enough.
+
+What's next for Turtle Polygon Generator
+
+the aforementioned color issue is a big one, but we hope that in the next iteration of this cutting edge program the user will be allowed to dictate the size of the shape, becuase as of right now, all the shapes are the same size.
+",,,,"python, blood, sweat, tears, dedication",Penn State,,,JishnuS,,,jishnusiddabathula@gmail.com,Pennsylvania State University,1,erdemulusoy,erdemulusoy,,bupserdemulusoy@gmail.com,,,,,,,,,,,,,,,,
+,Blackjack,80,https://hackpsu-spring-2019.devpost.com/submissions/116174-blackjack,"Inspiration
+
+Build a project for my first hackathon
+
+What it does
+
+Play a game of blackjack against the computer
+
+Challenges I ran into
+
+Formatting what to do if an ace is on the table
+
+Accomplishments that I'm proud of
+
+Built my first game
+
+What I learned
+
+I refreshed on my python
+",,https://github.com/brendanhemstreet/blackjack.git,,"python, random",Penn State,,,brendanhemstreet,,,bkh5302@psu.edu,Pennsylvania State University,0,,,,,,,,,,,,,,,,,,,,
+HackPSU Overall - Tech,Geckonnect,20,https://hackpsu-spring-2019.devpost.com/submissions/116175-geckonnect,"Inspiration
+
+Recruiting can be a long and tedious process, especially for college students who are desparately trying to find their ideal internship or full-time opportunity. From experiencing the pain of 6-month long blinded recruiting processes, we have decided to create a platform to give candidates necessary information.
+
+What it does
+
+Geckonnect aims to assist potential employees of GEICO by giving recommendations of best job fits. Users create candidate accounts, and update their profile with their resume, location preference, and education level. Every time a new resume is submitted, we run our natural language processing to parse through the resume, and make recommendations based on keyword matches between the resume, and all jobs currently on the market within Geckonnect. These recommendations are displayed on a page for the user, so that they can apply to them if they wish. They can also browse all jobs on the market. Once a user submits an application, they can navigate to their user dashboard to review all of the applications they have applied to. Each application will be shown as a clickable card, where they will get more info of where on the recruiting timeline they stand, and what steps will take place in the future. 
+
+How we built it
+
+We used the Python Django framework to build our web application from the bottom up. We created all of the database models, html templates, css styling, javascript functionality, and app logic within Django.
+
+Challenges we ran into
+
+We had some very ambitious goals when we started this project, but due to time we struggled with completing all of them.
+
+Accomplishments that we're proud of
+
+Creating Geckonnect from scratch was very satisfying, as many of us are new with the Django framework, and with web app development in general.
+
+What we learned
+
+We learned a lot about Django.
+
+What's next for Geckonnect
+
+We wish to reach our ambitious goals by fleshing out our user dashboard. We want to provide the user with more information, and even functionality for the whole recruiting process, such as scheduling interviews, submitting questionnaires, background checks, and so on. Another way we wanted to make use of AI is to attempt to automate the team selection process via candidate preferences.
+",,https://github.com/thebrianbn/geico_smart_jobs,,"python, django, natural-language-processing, nltk, sqlite, selenium, html5, css, javascript, beautiful-soup",Penn State,,,thebrianbn,Brian,Nguyen,thebrianbn@gmail.com,Pennsylvania State University,3,sahilbhanderi,Sahil,Bhanderi,sahil.bhanderi@gmail.com,JasonChhay,Jason,Chhay,jasonchhay@gmail.com,kylebradley,Kyle,Bradley,kj.bradley987@gmail.com,,,,,,,,
+Geico - AI Challenge,Geckonnect,20,https://hackpsu-spring-2019.devpost.com/submissions/116175-geckonnect,"Inspiration
+
+Recruiting can be a long and tedious process, especially for college students who are desparately trying to find their ideal internship or full-time opportunity. From experiencing the pain of 6-month long blinded recruiting processes, we have decided to create a platform to give candidates necessary information.
+
+What it does
+
+Geckonnect aims to assist potential employees of GEICO by giving recommendations of best job fits. Users create candidate accounts, and update their profile with their resume, location preference, and education level. Every time a new resume is submitted, we run our natural language processing to parse through the resume, and make recommendations based on keyword matches between the resume, and all jobs currently on the market within Geckonnect. These recommendations are displayed on a page for the user, so that they can apply to them if they wish. They can also browse all jobs on the market. Once a user submits an application, they can navigate to their user dashboard to review all of the applications they have applied to. Each application will be shown as a clickable card, where they will get more info of where on the recruiting timeline they stand, and what steps will take place in the future. 
+
+How we built it
+
+We used the Python Django framework to build our web application from the bottom up. We created all of the database models, html templates, css styling, javascript functionality, and app logic within Django.
+
+Challenges we ran into
+
+We had some very ambitious goals when we started this project, but due to time we struggled with completing all of them.
+
+Accomplishments that we're proud of
+
+Creating Geckonnect from scratch was very satisfying, as many of us are new with the Django framework, and with web app development in general.
+
+What we learned
+
+We learned a lot about Django.
+
+What's next for Geckonnect
+
+We wish to reach our ambitious goals by fleshing out our user dashboard. We want to provide the user with more information, and even functionality for the whole recruiting process, such as scheduling interviews, submitting questionnaires, background checks, and so on. Another way we wanted to make use of AI is to attempt to automate the team selection process via candidate preferences.
+",,https://github.com/thebrianbn/geico_smart_jobs,,"python, django, natural-language-processing, nltk, sqlite, selenium, html5, css, javascript, beautiful-soup",Penn State,,,thebrianbn,Brian,Nguyen,thebrianbn@gmail.com,Pennsylvania State University,3,sahilbhanderi,Sahil,Bhanderi,sahil.bhanderi@gmail.com,JasonChhay,Jason,Chhay,jasonchhay@gmail.com,kylebradley,Kyle,Bradley,kj.bradley987@gmail.com,,,,,,,,
+Best Use of Google Cloud Platform (MLH),id app,21,https://hackpsu-spring-2019.devpost.com/submissions/116176-id-app,"Common sense is not always common, as there are a number of common objects people do not actually have much knowledge about. It would be very convenient to be able to take an image of something encountered in every day life, and to have a small description giving general information to help people out.
+
+The identification app was made using python and google cloud platforming. An image is put into the program, and it uses google's identification features to display general features and information about what the app identifies it as. 
+",,,,"python, pip","Montgomery college, UMBC",,Google Cloud Platform,AnyaHossaini,Anya,Hossaini,anya.hossaini@gmail.com,"Montgomery College, University of Maryland - Baltimore, University of Maryland - College Park",3,Rajashow,Rajashow,Parajuli,rajashowparajuli@gmail.com,yonaadug,Yonathan,Kebede,kebedey16@gmail.com,ynawrozie,Yasmin,Nawrozie,ynawrozie@gmail.com,,,,,,,,
+,ML,5,https://hackpsu-spring-2019.devpost.com/submissions/116178-ml,"i do this project for predicting the money people spend
+
+Predicting
+
+Use few models
+
+how to deal with original data csv file
+",,,https://s3.amazonaws.com/challengepost/zip_files/production/42373/zip_files/Files.zip,python,Penn state,,,sd1f080302,lingyu,xu,sd1f080302@gmail.com,Pennsylvania State University,0,,,,,,,,,,,,,,,,,,,,
+Best IoT Hack using a Qualcomm Device (MLH),Drawl Assist,19,https://hackpsu-spring-2019.devpost.com/submissions/116179-drawl-assist,"Inspiration
+
+Many people suffer from disease such as parkinson, arthritis and other physical ailments that prevent them from doing basic tasks as simple as writing letters. 
+
+What it does
+
+Drawl Assist allows a user to dictate text to it and have it reproduce your speech into your own natural hand writing, or any other font.
+
+How we built it
+
+The break down for this projected started with integrating Google's talk to text API to allow real time voice transcribing to be passed on to be printed. Next we creating our own font in G-code, a machine interpretable language, that would still look natural however require very few brushstrokes to maintain a sufficient speed. From here on we took the text received from the TTT applet and converted into sentences that auto complies the G-code base on the general case functions we wrote. This is then passed directly into the machines interpreter and Each operation is executed by the CNC drawling machine.  
+
+Challenges we ran into
+
+We had Some troubles getting the G-code to pass directly into the machine's interpreter over a COM port. There also were some challenges Getting the talk to text API to refresh and feed live.
+
+Accomplishments that we're proud of
+
+The Drawl assist can print out in natural latin writing what is being said out loud in real time with the user. This was our primary objective.
+
+What we learned
+
+Machine G-Code is very difficult to write because it is not in a natural readable format due to it being a semi-pre compiled language.
+
+What's next for Drawl Assist
+
+Add feature to allow fast training of a new handwriting/ font through machine learning.
+",,,https://s3.amazonaws.com/challengepost/zip_files/production/42375/zip_files/Hack19.zip,"python, grbl, g-code",Penn State,DragonBoard 410C,Google Cloud Platform,mmaslakowski,Michael,Maslakowski,mum544@psu.edu,Pennsylvania State University,2,taksh99,taksh99,,tza38@psu.edu,Muayyad9,,,mas7569@psu.edu,,,,,,,,,,,,
+Best Use of Google Cloud Platform (MLH),Drawl Assist,19,https://hackpsu-spring-2019.devpost.com/submissions/116179-drawl-assist,"Inspiration
+
+Many people suffer from disease such as parkinson, arthritis and other physical ailments that prevent them from doing basic tasks as simple as writing letters. 
+
+What it does
+
+Drawl Assist allows a user to dictate text to it and have it reproduce your speech into your own natural hand writing, or any other font.
+
+How we built it
+
+The break down for this projected started with integrating Google's talk to text API to allow real time voice transcribing to be passed on to be printed. Next we creating our own font in G-code, a machine interpretable language, that would still look natural however require very few brushstrokes to maintain a sufficient speed. From here on we took the text received from the TTT applet and converted into sentences that auto complies the G-code base on the general case functions we wrote. This is then passed directly into the machines interpreter and Each operation is executed by the CNC drawling machine.  
+
+Challenges we ran into
+
+We had Some troubles getting the G-code to pass directly into the machine's interpreter over a COM port. There also were some challenges Getting the talk to text API to refresh and feed live.
+
+Accomplishments that we're proud of
+
+The Drawl assist can print out in natural latin writing what is being said out loud in real time with the user. This was our primary objective.
+
+What we learned
+
+Machine G-Code is very difficult to write because it is not in a natural readable format due to it being a semi-pre compiled language.
+
+What's next for Drawl Assist
+
+Add feature to allow fast training of a new handwriting/ font through machine learning.
+",,,https://s3.amazonaws.com/challengepost/zip_files/production/42375/zip_files/Hack19.zip,"python, grbl, g-code",Penn State,DragonBoard 410C,Google Cloud Platform,mmaslakowski,Michael,Maslakowski,mum544@psu.edu,Pennsylvania State University,2,taksh99,taksh99,,tza38@psu.edu,Muayyad9,,,mas7569@psu.edu,,,,,,,,,,,,
+HackPSU Overall - Tech,Drawl Assist,19,https://hackpsu-spring-2019.devpost.com/submissions/116179-drawl-assist,"Inspiration
+
+Many people suffer from disease such as parkinson, arthritis and other physical ailments that prevent them from doing basic tasks as simple as writing letters. 
+
+What it does
+
+Drawl Assist allows a user to dictate text to it and have it reproduce your speech into your own natural hand writing, or any other font.
+
+How we built it
+
+The break down for this projected started with integrating Google's talk to text API to allow real time voice transcribing to be passed on to be printed. Next we creating our own font in G-code, a machine interpretable language, that would still look natural however require very few brushstrokes to maintain a sufficient speed. From here on we took the text received from the TTT applet and converted into sentences that auto complies the G-code base on the general case functions we wrote. This is then passed directly into the machines interpreter and Each operation is executed by the CNC drawling machine.  
+
+Challenges we ran into
+
+We had Some troubles getting the G-code to pass directly into the machine's interpreter over a COM port. There also were some challenges Getting the talk to text API to refresh and feed live.
+
+Accomplishments that we're proud of
+
+The Drawl assist can print out in natural latin writing what is being said out loud in real time with the user. This was our primary objective.
+
+What we learned
+
+Machine G-Code is very difficult to write because it is not in a natural readable format due to it being a semi-pre compiled language.
+
+What's next for Drawl Assist
+
+Add feature to allow fast training of a new handwriting/ font through machine learning.
+",,,https://s3.amazonaws.com/challengepost/zip_files/production/42375/zip_files/Hack19.zip,"python, grbl, g-code",Penn State,DragonBoard 410C,Google Cloud Platform,mmaslakowski,Michael,Maslakowski,mum544@psu.edu,Pennsylvania State University,2,taksh99,taksh99,,tza38@psu.edu,Muayyad9,,,mas7569@psu.edu,,,,,,,,,,,,
+HackPSU - IoT Workshop Challenge,rasberry pi car,70,https://hackpsu-spring-2019.devpost.com/submissions/116180-rasberry-pi-car,"Inspiration
+
+The last hackathon I went too I got a google home mini and I wanted to see what I could do with it
+
+What it does
+
+takes commends form the google home mini, then edits firebase, and then the pi takes the directions and runs the right code to move.
+
+How I built it
+
+I had to put the wheels in the correct formation and then I set up a firebase. The final part is to make the google home mini to interact using the knowledge of the lecture of the hackathon. 
+
+Challenges I ran into
+
+The google home mini does not seem to want to edit firebase
+
+Accomplishments that I'm proud of
+
+I never used firebase before and I got at least half of it.
+
+What I learned
+
+Firebase is hard
+
+What's next for rasberry pi car
+
+I would want to make a live stream video for it and addition ways of control
+",,,,"firebase, dialogflow, google-cloud",Penn State,,,kdl5273,Kieran,Laverty,kdl5273@psu.edu,Pennsylvania State University,0,,,,,,,,,,,,,,,,,,,,
+Best Use of Google Cloud Platform (MLH),rasberry pi car,70,https://hackpsu-spring-2019.devpost.com/submissions/116180-rasberry-pi-car,"Inspiration
+
+The last hackathon I went too I got a google home mini and I wanted to see what I could do with it
+
+What it does
+
+takes commends form the google home mini, then edits firebase, and then the pi takes the directions and runs the right code to move.
+
+How I built it
+
+I had to put the wheels in the correct formation and then I set up a firebase. The final part is to make the google home mini to interact using the knowledge of the lecture of the hackathon. 
+
+Challenges I ran into
+
+The google home mini does not seem to want to edit firebase
+
+Accomplishments that I'm proud of
+
+I never used firebase before and I got at least half of it.
+
+What I learned
+
+Firebase is hard
+
+What's next for rasberry pi car
+
+I would want to make a live stream video for it and addition ways of control
+",,,,"firebase, dialogflow, google-cloud",Penn State,,,kdl5273,Kieran,Laverty,kdl5273@psu.edu,Pennsylvania State University,0,,,,,,,,,,,,,,,,,,,,
+HackPSU Overall - Tech,rasberry pi car,70,https://hackpsu-spring-2019.devpost.com/submissions/116180-rasberry-pi-car,"Inspiration
+
+The last hackathon I went too I got a google home mini and I wanted to see what I could do with it
+
+What it does
+
+takes commends form the google home mini, then edits firebase, and then the pi takes the directions and runs the right code to move.
+
+How I built it
+
+I had to put the wheels in the correct formation and then I set up a firebase. The final part is to make the google home mini to interact using the knowledge of the lecture of the hackathon. 
+
+Challenges I ran into
+
+The google home mini does not seem to want to edit firebase
+
+Accomplishments that I'm proud of
+
+I never used firebase before and I got at least half of it.
+
+What I learned
+
+Firebase is hard
+
+What's next for rasberry pi car
+
+I would want to make a live stream video for it and addition ways of control
+",,,,"firebase, dialogflow, google-cloud",Penn State,,,kdl5273,Kieran,Laverty,kdl5273@psu.edu,Pennsylvania State University,0,,,,,,,,,,,,,,,,,,,,
+Lion LaunchPad SLO - Inventory Innovation,Inventory System,17,https://hackpsu-spring-2019.devpost.com/submissions/116181-inventory-system,"Inspiration
+
+Our inspiration was the entrepreneurial spirt that is evidently present in the members of the Lion Launchpad (the sponsors for our challenge). We wish to help them to continue to grow and innovate.
+
+What it does
+
+The inventory management system allows users to keep track of resources in a maker-space. Members can check out items via a silky smooth web interface. Because this application is a webserver, it allows for wireless connection from any device: desktop, laptop, or mobile device.  
+
+How we built it
+
+The system was built using the extensive Python Django web framework. Because the framework is so robust, it promises the ability for new and exciting features.
+
+Challenges we ran into
+
+Django is sometimes referee to as an opinionated library. The developers of this framework decided to impose restrictions on ways to implement webservers with it. This results in a steep learning curve which was an enjoyable puzzle to tackle in under 24 hours.
+
+Accomplishments that we are proud of
+
+Our team is proud that our webserver is running smoothly and providing functionality that was requested by the sponsor.
+
+What we learned
+
+All team members learned a great deal about the systems design cycle. We gained valuable experience in tools such as Django and Python. 
+
+What's next for Inventory System
+
+The inventory system, as stated above, holds promise to be expanded with numerous cool features. This range from an integrated calendaring system to hardware devices that can automatically scan items in the makerspace. 
+",,https://github.com/CarterFendley/HackPSU-2019,https://s3.amazonaws.com/challengepost/zip_files/production/42388/zip_files/HackPSU-2019-master.zip,"python, django, html, css",Pennsylvania State University,,,karenani99,Karen,Ani,karenani99@gmail.com,Pennsylvania State University,2,carterfendley,Carter,Fendley,carterfendley@gmail.com,jcj5251,Joey,John,jcj5251@gmail.com,,,,,,,,,,,,
+HackPSU Overall - Tech,Inventory System,17,https://hackpsu-spring-2019.devpost.com/submissions/116181-inventory-system,"Inspiration
+
+Our inspiration was the entrepreneurial spirt that is evidently present in the members of the Lion Launchpad (the sponsors for our challenge). We wish to help them to continue to grow and innovate.
+
+What it does
+
+The inventory management system allows users to keep track of resources in a maker-space. Members can check out items via a silky smooth web interface. Because this application is a webserver, it allows for wireless connection from any device: desktop, laptop, or mobile device.  
+
+How we built it
+
+The system was built using the extensive Python Django web framework. Because the framework is so robust, it promises the ability for new and exciting features.
+
+Challenges we ran into
+
+Django is sometimes referee to as an opinionated library. The developers of this framework decided to impose restrictions on ways to implement webservers with it. This results in a steep learning curve which was an enjoyable puzzle to tackle in under 24 hours.
+
+Accomplishments that we are proud of
+
+Our team is proud that our webserver is running smoothly and providing functionality that was requested by the sponsor.
+
+What we learned
+
+All team members learned a great deal about the systems design cycle. We gained valuable experience in tools such as Django and Python. 
+
+What's next for Inventory System
+
+The inventory system, as stated above, holds promise to be expanded with numerous cool features. This range from an integrated calendaring system to hardware devices that can automatically scan items in the makerspace. 
+",,https://github.com/CarterFendley/HackPSU-2019,https://s3.amazonaws.com/challengepost/zip_files/production/42388/zip_files/HackPSU-2019-master.zip,"python, django, html, css",Pennsylvania State University,,,karenani99,Karen,Ani,karenani99@gmail.com,Pennsylvania State University,2,carterfendley,Carter,Fendley,carterfendley@gmail.com,jcj5251,Joey,John,jcj5251@gmail.com,,,,,,,,,,,,
+Best Use of Google Cloud Platform (MLH),BlindCall,65,https://hackpsu-spring-2019.devpost.com/submissions/116182-blindcall,"Inspiration
+
+I used an app called Flora to help me with my productivity. Once, while using it, I realized that although Flora was for a good cause, a better influencer would be the ire of my friends as well as monetary incentives. Betting against your friends and a fear of losing your money TO your friends is a strong incentive to not lose.
+
+What it does
+
+Implements the Pomodoro timer technique as well as betting against one's own friends to incentivize doing well.
+
+How we built it
+
+We used Swift as well as at the beginning setting up using Node.js, MongoDB, as well as Google Cloud to host the server.
+
+Challenges we ran into
+
+Initially, we couldn't figure out how to SSH into the GCloud server.  Most of us didn't really know any Swift before this so that was just difficult, especially learning to do it programmatically which allowed us to parallelize the process of making the app. During the programming process, the entire team struggled with sometimes figuring out what needed to be done to implement what we had made in Adobe XD.
+
+Accomplishments that we're proud of
+
+The app connects to an online server and is able to be used by anyone that is connected to the internet that has the app. For most of the team, this is a first, as we have never made apps or tools that were publicly live and could update based on online information.
+
+What we learned
+
+How to programmatically write Swift code, how to implement the server and connect it with Node.js as well as Alamofire.
+
+What's next for BlindCall
+
+Clean up the app to make it more visually appealing and actually implementing the ability to add money.
+",,,,"swift, mongodb, google-cloud, node.js",Penn State University,,Google Cloud Platform,aaronzhou248,Aaron,Zhou,aaronzhou248@gmail.com,Pennsylvania State University,5,AaronZhou,Aaron,Zhou,dexterbloons@yahoo.com,ivanhacks,,,ivv5032@psu.edu,rps5475,Raj,Shah,rps5475@psu.edu,dpg5267,Douglas,Gardener,dpg5267@psu.edu,dharmasenan18,Nadith,Dharmasena,dharmasenan18@gmail.com
+HackPSU Overall - Tech,BlindCall,65,https://hackpsu-spring-2019.devpost.com/submissions/116182-blindcall,"Inspiration
+
+I used an app called Flora to help me with my productivity. Once, while using it, I realized that although Flora was for a good cause, a better influencer would be the ire of my friends as well as monetary incentives. Betting against your friends and a fear of losing your money TO your friends is a strong incentive to not lose.
+
+What it does
+
+Implements the Pomodoro timer technique as well as betting against one's own friends to incentivize doing well.
+
+How we built it
+
+We used Swift as well as at the beginning setting up using Node.js, MongoDB, as well as Google Cloud to host the server.
+
+Challenges we ran into
+
+Initially, we couldn't figure out how to SSH into the GCloud server.  Most of us didn't really know any Swift before this so that was just difficult, especially learning to do it programmatically which allowed us to parallelize the process of making the app. During the programming process, the entire team struggled with sometimes figuring out what needed to be done to implement what we had made in Adobe XD.
+
+Accomplishments that we're proud of
+
+The app connects to an online server and is able to be used by anyone that is connected to the internet that has the app. For most of the team, this is a first, as we have never made apps or tools that were publicly live and could update based on online information.
+
+What we learned
+
+How to programmatically write Swift code, how to implement the server and connect it with Node.js as well as Alamofire.
+
+What's next for BlindCall
+
+Clean up the app to make it more visually appealing and actually implementing the ability to add money.
+",,,,"swift, mongodb, google-cloud, node.js",Penn State University,,Google Cloud Platform,aaronzhou248,Aaron,Zhou,aaronzhou248@gmail.com,Pennsylvania State University,5,AaronZhou,Aaron,Zhou,dexterbloons@yahoo.com,ivanhacks,,,ivv5032@psu.edu,rps5475,Raj,Shah,rps5475@psu.edu,dpg5267,Douglas,Gardener,dpg5267@psu.edu,dharmasenan18,Nadith,Dharmasena,dharmasenan18@gmail.com
+Lion LaunchPad SLO - Inventory Innovation,SpreadSheet Inventory,73,https://hackpsu-spring-2019.devpost.com/submissions/116183-spreadsheet-inventory,"Inspiration
+
+We wanted to create something simple that would be useful and easy to use for anyone who isn't too familiar with coding. 
+
+What it does
+
+All of the items and their quantities are put into the excel sheet. Then, when a person wants to check out an item, they put their name, psu email, date and quantity of the item(s) they are checking out into the correct cell. Finally, the program will let them know if the items can be checked out or not depending on the availability of the resource.
+
+How we built it
+
+We made a small list of a few items, input their quantities, and wrote formulas. We have basic addition formulas and a formula to show if there are more items left to be checked out or not. 
+
+Challenges we ran into
+
+We ran into a challenge when we wanted to write the =IF function because we had too many arguments for one cell and the final product wasn't showing up.
+
+Accomplishments that we're proud of
+
+We are proud that our =IF function worked nicely at the end.
+
+What we learned
+
+We learned more about excel and its tricks. Specially that =IF functions can't have too many arguments for one cell. We also learned that inventories can be difficult to organize.
+
+What's next for SpreadSheet Inventory
+
+We need to improve the way people who can check out items are organized, we currently only have a max of three people that can check out items. We would also want to link our excel inventory list to another program that would clean up the whole presentation. Users could be able to chose an item from a dropdown box, there could be a time limit for checking out certain items. We can also work on printing barcodes for each item as they are put into the inventory list, these codes will be organized and sent to the excel sheet which will be linked to the other cleaner user-friendly program. The LLPSLO could get a barcode scanner so users who want to check out items wouldn't have to write the item name, they could just scan the barcode and swipe their PSU ID card.
+",,https://github.com/HamdanAlMarzooqi/SpreadSheet,https://s3.amazonaws.com/challengepost/zip_files/production/42376/zip_files/Hack_PSU_Inventory.xlsm,excel,PennState,,,hma5365,Hamdan,Almarzooqi,hma5365@psu.edu,Pennsylvania State University,4,fea5033,Fiorella,Arroyo Calderon,fea5033@psu.edu,dkt5224,Dylan,Tellei,dkt5224@psu.edu,bam6181,Blake,Martin,bam6181@psu.edu,nop4,Nestor,Pelaez,nop4@psu.edu,,,,
+Lion LaunchPad SLO - Inventory Innovation,Lion Share,35,https://hackpsu-spring-2019.devpost.com/submissions/116184-lion-share,"Inspiration
+
+The Lion Launchpad Inventory System challenge appealed to us greatly because it allowed us to create a project which would directly benefit people in our community. One of our teammates,Greg, also found it particularly appealing since the Lion Launchpad community is reminiscent of the community he's part of at the co.space. After touring the makerspace, we were blown away by the atmosphere they had and wanted to create a tool which could help facilitate the borrowing of communal property without restricting it.
+
+What it does
+
+Lion Share provides a simple system to keep track of borrowed items in a shared space. It allows users to see who currently has checked out items and even take on support responsibilities by ""adopting"" an item. Items also have associated QR codes which can be scanned to quickly find an item in the app. The system is designed to be expanded in many ways including smart assistant integration and machine learning powered image recognition.
+
+How we built it
+
+We used a backend server built on Express.js along with a MySQL database hosted on Google's cloud platform. For the frontend we used Node.js with Vue for the interfaces.
+
+Challenges we ran into
+
+We initially planned to build out Alexa support overnight, but the learning curve proved to be surprisingly high when combined with learning a new programming language. In addition, there were some hurdles integrating the frontend code and the backend code.
+
+Accomplishments that we're proud of
+
+We're proud of how intimately familiar we became with our audience's needs and how much we used this information to influence how we built our project.
+
+What we learned
+
+We learned a good deal about developing and deploying on cloud platforms using Google's App Engine and Cloud SQL.
+",,https://github.com/granieri/borrow,https://s3.amazonaws.com/challengepost/zip_files/production/42380/zip_files/Borrow-20190317T170738Z-001.zip,"typescript, javascript, cloud-my-sql, google-app-engine, express.js, node.js, axios",Penn State University,,Google Cloud Platform,zackrenda,Zachary,Renda,zackrenda@gmail.com,"Pennsylvania State University, Smith College",3,gmct,gmct,,gcosteas@gmail.com,eharms,eharms,,eharms907@gmail.com,granieri,Max,Ranieri,otherranieri@gmail.com,,,,,,,,
+Best Use of Google Cloud Platform (MLH),Lion Share,35,https://hackpsu-spring-2019.devpost.com/submissions/116184-lion-share,"Inspiration
+
+The Lion Launchpad Inventory System challenge appealed to us greatly because it allowed us to create a project which would directly benefit people in our community. One of our teammates,Greg, also found it particularly appealing since the Lion Launchpad community is reminiscent of the community he's part of at the co.space. After touring the makerspace, we were blown away by the atmosphere they had and wanted to create a tool which could help facilitate the borrowing of communal property without restricting it.
+
+What it does
+
+Lion Share provides a simple system to keep track of borrowed items in a shared space. It allows users to see who currently has checked out items and even take on support responsibilities by ""adopting"" an item. Items also have associated QR codes which can be scanned to quickly find an item in the app. The system is designed to be expanded in many ways including smart assistant integration and machine learning powered image recognition.
+
+How we built it
+
+We used a backend server built on Express.js along with a MySQL database hosted on Google's cloud platform. For the frontend we used Node.js with Vue for the interfaces.
+
+Challenges we ran into
+
+We initially planned to build out Alexa support overnight, but the learning curve proved to be surprisingly high when combined with learning a new programming language. In addition, there were some hurdles integrating the frontend code and the backend code.
+
+Accomplishments that we're proud of
+
+We're proud of how intimately familiar we became with our audience's needs and how much we used this information to influence how we built our project.
+
+What we learned
+
+We learned a good deal about developing and deploying on cloud platforms using Google's App Engine and Cloud SQL.
+",,https://github.com/granieri/borrow,https://s3.amazonaws.com/challengepost/zip_files/production/42380/zip_files/Borrow-20190317T170738Z-001.zip,"typescript, javascript, cloud-my-sql, google-app-engine, express.js, node.js, axios",Penn State University,,Google Cloud Platform,zackrenda,Zachary,Renda,zackrenda@gmail.com,"Pennsylvania State University, Smith College",3,gmct,gmct,,gcosteas@gmail.com,eharms,eharms,,eharms907@gmail.com,granieri,Max,Ranieri,otherranieri@gmail.com,,,,,,,,
+HackPSU Overall - Tech,Lion Share,35,https://hackpsu-spring-2019.devpost.com/submissions/116184-lion-share,"Inspiration
+
+The Lion Launchpad Inventory System challenge appealed to us greatly because it allowed us to create a project which would directly benefit people in our community. One of our teammates,Greg, also found it particularly appealing since the Lion Launchpad community is reminiscent of the community he's part of at the co.space. After touring the makerspace, we were blown away by the atmosphere they had and wanted to create a tool which could help facilitate the borrowing of communal property without restricting it.
+
+What it does
+
+Lion Share provides a simple system to keep track of borrowed items in a shared space. It allows users to see who currently has checked out items and even take on support responsibilities by ""adopting"" an item. Items also have associated QR codes which can be scanned to quickly find an item in the app. The system is designed to be expanded in many ways including smart assistant integration and machine learning powered image recognition.
+
+How we built it
+
+We used a backend server built on Express.js along with a MySQL database hosted on Google's cloud platform. For the frontend we used Node.js with Vue for the interfaces.
+
+Challenges we ran into
+
+We initially planned to build out Alexa support overnight, but the learning curve proved to be surprisingly high when combined with learning a new programming language. In addition, there were some hurdles integrating the frontend code and the backend code.
+
+Accomplishments that we're proud of
+
+We're proud of how intimately familiar we became with our audience's needs and how much we used this information to influence how we built our project.
+
+What we learned
+
+We learned a good deal about developing and deploying on cloud platforms using Google's App Engine and Cloud SQL.
+",,https://github.com/granieri/borrow,https://s3.amazonaws.com/challengepost/zip_files/production/42380/zip_files/Borrow-20190317T170738Z-001.zip,"typescript, javascript, cloud-my-sql, google-app-engine, express.js, node.js, axios",Penn State University,,Google Cloud Platform,zackrenda,Zachary,Renda,zackrenda@gmail.com,"Pennsylvania State University, Smith College",3,gmct,gmct,,gcosteas@gmail.com,eharms,eharms,,eharms907@gmail.com,granieri,Max,Ranieri,otherranieri@gmail.com,,,,,,,,
+,Sudoku Solver,50,https://hackpsu-spring-2019.devpost.com/submissions/116185-sudoku-solver,"Inspiration
+
+I like to play Sudoku so I tried to build a Sudoku solver.
+
+What it does
+
+Solves a Sudoku puzzle.
+
+How I built it
+
+With my own two hands.
+
+Challenges I ran into
+
+I got really tired at times but I manged to persevere.
+
+What I learned
+
+It's possible to accomplish great things with a little motivation.
+
+What's next for Sudoku Solver
+
+Maybe a world tour. I think it just needs time to figure itself out for right now.
+",,,https://s3.amazonaws.com/challengepost/zip_files/production/42377/zip_files/squid.zip,java,Penn State,,,bsewdass,,,bks5447@psu.edu,Pennsylvania State University,0,,,,,,,,,,,,,,,,,,,,
+,GCP applicatoins,38,https://hackpsu-spring-2019.devpost.com/submissions/116186-gcp-applicatoins,"Inspiration
+
+What it does
+
+How we built it
+
+Challenges we ran into
+
+Accomplishments that we're proud of
+
+What we learned
+
+What's next for GCP applicatoins
+
+it reports tomorrow's weather
+it analyze twitter sentiment
+",,,,"google-cloud, dialogflow",psu,,,ybh5084,Yuhan,Hsi,ybh5084@psu.edu,Pennsylvania State University,0,,,,,,,,,,,,,,,,,,,,
+HackPSU Overall - Tech,ShortestPath,68,https://hackpsu-spring-2019.devpost.com/submissions/116187-shortestpath,"ShortestPath
+
+Author: Jason Liu, Yifei Zhang
+Date March 17th, 2019
+
+This is a program used to visualize the shortest path between two points on a stl 3D model. 
+
+Before running this program, place the stl model in the folder, and rename it ""model.stl"". (The program can process 3D models with up to 1,000,000 unique vertices and up to 5,000,000 unique edges.) Edit the ""config.txt"" file to locate the start and end point of the path. The coordinates do not have to be exact. The program will find the closest point on the model. (A sample model and configuration file are included in the folder for testing.) 
+
+To find the path, run ""STLParser.jar"" first. Then run ""dijkstra"". (Only the 64 bit Linux binary file is provided. However, you can compile ""dijkstra.cpp"" in the source folder yourself.) Then, run ""visulization.m"" in MATLAB. 
+
+Note that this program cannot be used to calculate the exact shortest path or its length. The the length of the path will always be overestimated, and will not converge to the length of the actual shortest path regardless of the precision of the triangulation. It should be used for visualization purpose only. The function of calculating the exact shortest path is being worked on. 
+
+""stlread.m"" is the work of Copyright (c) 2011, Eric Johnson
+""csvimport.m"" is the work of Copyright (c) 2008, Ashish Sadanandan
+
+This program is under the MIT License. 
+The authors are not responsible for serious injuries or death caused by this program. 
+",,https://github.com/JasonYuanLiu/ShortestPath,https://s3.amazonaws.com/challengepost/zip_files/production/42378/zip_files/ShortestPath-master.zip,"matlab, java, c++",Penn State,,,JasonYuanLiu,JasonYuanLiu,,jml7271@psu.edu,Pennsylvania State University,1,849333622,Queen-Of-Blade,,z849333622@gmail.com,,,,,,,,,,,,,,,,
+HackPSU Overall - Tech,LookGood.AI,10,https://hackpsu-spring-2019.devpost.com/submissions/116188-lookgood-ai,"Inspiration
+
+Have you ever had trouble figuring out which picture you look better in? I realized that people spend a lot of time asking their friends what they should post on Instagram, Facebook, SnapChat, Tinder, and other social media platforms. 
+
+What it does
+
+LookBot.AI prompts the user to input how many photos they want to ultimately upload to social media and to upload all of the images they're considering. It then returns the ""best"" images based on multiple variables: the emotion portrayed by the person, the tilt of the person's face, and the blur, exposure, and noise levels of the image.
+
+How I built it
+
+I used Flask, Python, Microsoft Azure's Face API, JavaScript, and HTML.
+
+Challenges I ran into
+
+In order for the Python script I wrote to work with the images in the browser, I needed to upload them to a local Flask server. This step was the most difficult for me. 
+
+Accomplishments that I'm proud of
+
+I'm glad I was able to create a full-scale web application using Flask. I've experimented with the framework in the past, making web crawlers, but never have built a complete and deployed product using it.
+
+What I learned
+
+I learned how to work with the server-side capabilities of Flask.
+
+What's next for LookGood.AI
+
+I plan on strengthening the algorithm and UI. I also will eventually purchase the LookGood.AI domain so I can make the app available to everyone.
+",,http://rkatakam.pythonanywhere.com/,https://s3.amazonaws.com/challengepost/zip_files/production/42379/zip_files/LookGoodMachine.zip,"flask, python, javascript, azure, face-api",Penn State University,,,RohanKatakam,Rohan,Katakam,rohankatakam@yahoo.com,Pennsylvania State University,0,,,,,,,,,,,,,,,,,,,,
+Geico - AI Challenge,LookGood.AI,10,https://hackpsu-spring-2019.devpost.com/submissions/116188-lookgood-ai,"Inspiration
+
+Have you ever had trouble figuring out which picture you look better in? I realized that people spend a lot of time asking their friends what they should post on Instagram, Facebook, SnapChat, Tinder, and other social media platforms. 
+
+What it does
+
+LookBot.AI prompts the user to input how many photos they want to ultimately upload to social media and to upload all of the images they're considering. It then returns the ""best"" images based on multiple variables: the emotion portrayed by the person, the tilt of the person's face, and the blur, exposure, and noise levels of the image.
+
+How I built it
+
+I used Flask, Python, Microsoft Azure's Face API, JavaScript, and HTML.
+
+Challenges I ran into
+
+In order for the Python script I wrote to work with the images in the browser, I needed to upload them to a local Flask server. This step was the most difficult for me. 
+
+Accomplishments that I'm proud of
+
+I'm glad I was able to create a full-scale web application using Flask. I've experimented with the framework in the past, making web crawlers, but never have built a complete and deployed product using it.
+
+What I learned
+
+I learned how to work with the server-side capabilities of Flask.
+
+What's next for LookGood.AI
+
+I plan on strengthening the algorithm and UI. I also will eventually purchase the LookGood.AI domain so I can make the app available to everyone.
+",,http://rkatakam.pythonanywhere.com/,https://s3.amazonaws.com/challengepost/zip_files/production/42379/zip_files/LookGoodMachine.zip,"flask, python, javascript, azure, face-api",Penn State University,,,RohanKatakam,Rohan,Katakam,rohankatakam@yahoo.com,Pennsylvania State University,0,,,,,,,,,,,,,,,,,,,,
+,E&T (Emotions and Timelines),16,https://hackpsu-spring-2019.devpost.com/submissions/116189-e-t-emotions-and-timelines,"Inspiration: We are inspired by the uncertainty and lack of human empathy in the recruiting process.
+
+What it does: It is an Alexa skill that allows users to verbally share how they are feeling with their recruiter. It will appropriately share these ""emotion states"" with the recruiter so they know whether to speed up or call the applicant to reassure them.
+
+How we built it: We used Alexa Developer console, Python, and Amazon Web Services to make this.
+
+Challenges we ran into: We had trouble understanding the Alexa environment and how the python code was connected with the other consoles on the developer site. We also had trouble connecting the Amazon Echo to the WIFI, but we solved all these problems.
+
+Accomplishments that we're proud of: We got most of the bulk coding done in 1 hour at 2 am last night!
+
+What we learned: We learned how to make an Alexa skill with multiple directions the conversation can go. We also learned how to code in Python.
+
+What's next for Emotions and Timelines: We will flesh out the conversation trees and have it accommodate more complex conversations. We will access the APIs to send emails/messages to the recruiter for emotion sharing. We will also access the APIs and Authentications needed for getting an applicant's actual timeline in a recruiting process.
+",,https://www.amazon.com/dp/B07PMZMY7G/ref=sr_1_1?keywords=emotions+and+timeline&qid=1552841504&s=digital-skills&sr=1-1-catcorr,,"alexa, amazon-alexa, amazon-web-services",Penn State University,Amaozn Echo,,rrf5075,Ryan,Feng,rrf5075@psu.edu,Pennsylvania State University,2,caylapun,Cayla,Pun,caylapun@gmail.com,clarissapun123,Clarissa,Pun,clarissapun123@gmail.com,,,,,,,,,,,,
+,Food Pool,41,https://hackpsu-spring-2019.devpost.com/submissions/116190-food-pool,"Inspiration
+
+As a student living in dorm, I am always hungry late night. I always like to have a snack/small meals. But whenever, I look in to ordering food from GrubHub or UberEats, I always have to pay and order a lot of unnecessary food because of the delivery charges and minimum order constraint respectively.
+
+What it does
+
+It aggregates the food demands of the students in a specific marked region. It then orders the most popular demand of the students living in that particular area. The seller comes with an appropriate quantity at the common delivery point. The seller sells individual units such as pizza slices instead of the whole pie to each student who is willing to buy at a very cheap price. 
+
+How I built it
+
+We started off by by dividing the task in 3 parts, 1 person to build the front page and write the CSS file, 1 person to decide what database and APIs to use which will be used to store the user login credentials and information and what popular items are trending and the last person to figure out how to use Google Maps APIs to locate the aggregation radius of demand  to order for delivery and also to locate the common point of delivery.
+
+Challenges I ran into
+
+-Caching - Improving response time
+-Geo Location Accuracy
+-Clustering Analysis
+-Making Website Compatible on all platforms
+-Continuous Delivery: End to End Automation
+
+Accomplishments that I'm proud of
+
+Developing unique application never seen before. Learning new technologies in such a short span of time.
+
+What I learned
+
+-Fixing Caching
+-Understanding Geo Location 
+-Figuring out how to do Clustering Analysis
+-Learned how to make website compatible on all platforms
+-Learning how to do integration testing
+
+What's next for Food Pool
+
+-Improving UI
+-Integrating Facebook and Google Sign Ins
+-Improve Algorithms
+-Contacting Suppliers
+",,https://food-pool.com,,"firebase, google-cloud, google-maps, html, css, javascript, bootstrap",Penn State University,,Google Cloud Platform,mrtanay,mrtanay,,tanaymehta97@gmail.com,Pennsylvania State University,2,lohitakshgupta22,Lohitaksh,Gupta,lohitakshgupta22@gmail.com,rohanp251297,Rohan,Patel,rohanp251297@gmail.com,,,,,,,,,,,,
+,Lion LaunchPad App,37,https://hackpsu-spring-2019.devpost.com/submissions/116191-lion-launchpad-app,"Inspiration
+
+We wanted to contribute something to the organization and also learn app development. Also, extra credit.
+
+What it does
+
+The Lion Launchpad App provides an accessible way for members not only to visualize, track and lend out inventory items but also provides other exigencies of the SLO. The app has capabilities to checkout items or return them, keep track of what you have checked out, upcoming events, member directory, place orders, affiliates directory, ongoing projects, suggestion box etc. It is provides all the features required by Lion LaunchPad in one app.
+
+How we built it
+
+Using FramerX
+
+Challenges we ran into
+
+The biggest challenge we face during this project was about how we should get started. We were confused about should we have a login page, should there be different interface for admins and members, and basically about how we are going to structure the application. 
+
+What we learned
+
+After few hours of brainstorming we were able to come up with an initial setup for the application that serves the basic purpose. Challenges we faced once we were done with it were all related to how we should be linking the different menus and in limiting some features only to the admin.
+",,https://amicable-star-43.framer.live/preview/,https://s3.amazonaws.com/challengepost/zip_files/production/42381/zip_files/Lion_LauchPad_App.zip,"framerx, javascript",The Pennsylvania State University,,,mrigankdoshy,Mrigank,Doshy,mrigankdoshy@gmail.com,Pennsylvania State University,1,agarwalvibhor2305,Vibhor,Agarwal,agarwalvibhor2305@gmail.com,,,,,,,,,,,,,,,,
+,Gym-Pals,62,https://hackpsu-spring-2019.devpost.com/submissions/116192-gym-pals,"Inspiration
+
+One day when trying to get together with some friends to go to the gym at the same time we had the issue of everyone canceling last minute due to scheduling. This prompted us to create Gym-Pal
+
+What it does
+
+Gym-Pal is an android app that allows users to create and join events at local gyms.
+
+How we built it
+
+We built the API using a node.js server connected to a mongodb database. The user's credentials are salted, hashed, then stored securely using bcrypt, express, and passport. The node.js server is hosted with google's cloud compute engine, and the mongodb database is hosted with Atlas.
+For the app, we used Android-Studio with Java. We used the android phone's location services to receive a user's location. With this location, we were able to interact with the Yelp Fusion API to receive and format a list of gym's in the user's area.
+
+Challenges we ran into
+
+Some challenges we ran into were asynchronous functions in Java for POST/GET requests, location not working without a sim card inserted, and properly configuring the online services to host the api.
+
+Accomplishments that we're proud of
+
+We are proud of having completed the API, and having a decent looking GUI on the android app.
+Additionally, we are proud of the fact that we were successful in loading in the nearest gyms based on location with Yelp's API.
+
+What we learned
+
+We  learned how to deal with debugging issues and how the tiniest bug can set development back by hours.
+Additionally, we learned how to properly interact with google's cloud computing. 
+
+What's next for Gym-Pals
+
+Our next step is to complete the development by finishing the basic features in the app. Our future goals are to add matchmaking based off of user profile attributes, and add fitness tracking capabilities. 
+",,,https://s3.amazonaws.com/challengepost/zip_files/production/42382/zip_files/GymPals.zip,"java, android-studio, node.js, mongodb, javascript",Pennsylvania State University Park,,Google Cloud Platform,Cydget,Cydget,,delhagen.k@gmail.com,Pennsylvania State University,0,,,,,,,,,,,,,,,,,,,,
+,grade warning,42,https://hackpsu-spring-2019.devpost.com/submissions/116193-grade-warning,"Inspiration
+
+Students usually struggle about whether they are in the danger of failing the class before late drop. So I think that if there is a system that can predict whether the student will fail or not based on the first two midterm grades. It might be useful. 
+
+What it does
+
+It can use grades and failing result from the past to predict whether the student is in the danger of failing the class. 
+
+How I built it
+
+The program will read in grades data and failing result from the past and use it to form three points. First is the average of the student who passed the class. Second is the average of the student who passed the class times the pass percentage plus the average of the student who failed the class times the failed percentage. Third is the average of the student who failed the class. Using this three points to see which range is the student in and return the suggestion message. 
+
+What's next for grade warning
+
+It can add in machine learning code and make the result more accurate. Also, we can turn it into a system that will automatically send warning emails to those students who might have danger in failing the class.
+",,https://github.com/pei-chenn/grade-warning,https://s3.amazonaws.com/challengepost/zip_files/production/42387/zip_files/hackpsu.zip,python,penn state university,,,pzk5269,PEICHEN,KUO,pzk5269@psu.edu,Pennsylvania State University,0,,,,,,,,,,,,,,,,,,,,
+,Learn alphabets,9,https://hackpsu-spring-2019.devpost.com/submissions/116194-learn-alphabets,"What it does
+
+This is fun way for kids to learn alphabets
+
+note: I did this for extra credit
+",,https://github.com/DharaniMikkilineni/AlphabetGenerator.git,https://s3.amazonaws.com/challengepost/zip_files/production/42383/zip_files/alphabet.zip,ionic,Pennsylvania State University,,,dharanichowdary15,SAI DHARANI,MIKKILINENI,dharanichowdary15@gmail.com,Pennsylvania State University,0,,,,,,,,,,,,,,,,,,,,
+Best Use of Snapkit (MLH),Cruise Control,28,https://hackpsu-spring-2019.devpost.com/submissions/116195-cruise-control,"Inspiration
+
+We wanted to create an app that allows people to form meaningful relationships while on a cruise. 
+
+What it does
+
+Our app allows you to view all events that are happening on your cruise. It allows you to see the location and time of the event, so you never miss anything important. Additionally, the app connects you to other people on the cruise that are interested in similar events, allowing you to form new connections!
+
+How we built it
+
+We built it with xCode and Swift, with backend web services written in PHP and a database built on MySQL. We used a WAMP Stack for testing our code and databases locally. 
+
+Challenges we ran into
+
+We had trouble connecting to and implementing the Snapchat SDK. Also, due to our lack of experience with the Google Cloud Platform, we experienced a learning curve in using the Platform to host our PHP scripts and database. PHP debugging also gave us trouble. 
+
+Accomplishments that we're proud of
+
+We are proud to demo this prototype which allows you to engage in the virtual cruise experience, with a furnished UI that keeps the user engaged and makes the vacation feel like seamless and endless fun. We are also proud of the speed and efficiency with which the app is able to run.
+
+What we learn
+
+We learned more about PHP and Google cloud technologies, as well as implementing Google Cloud in a real-world application and using Cloud hosting for databases. 
+
+What's next for Cruise Control
+
+Show it to cruise companies and release it to the public to inform them and stir interest.
+",,https://github.com/noahwg/CruiseApp.git,https://s3.amazonaws.com/challengepost/zip_files/production/42384/zip_files/CruiseControl.pptx,"xcode, wamp, swift, sql, tried-to-use-snapchat, maybe-google-cloude, and-legion, acer, and-apple, free-food-from-psu",Pennsylvania State University,,Snap,djpatel1998,Deep,Patel,djpatel1998@gmail.com,Pennsylvania State University,3,ssm55,,,ssm55@psu.edu,nwg5167,Noah,Gerberick,nwg5167@psu.edu,cpp5231,Chinmay,Pendse,cpp5231@psu.edu,,,,,,,,
+EY Tech Challenge,Cruise Control,28,https://hackpsu-spring-2019.devpost.com/submissions/116195-cruise-control,"Inspiration
+
+We wanted to create an app that allows people to form meaningful relationships while on a cruise. 
+
+What it does
+
+Our app allows you to view all events that are happening on your cruise. It allows you to see the location and time of the event, so you never miss anything important. Additionally, the app connects you to other people on the cruise that are interested in similar events, allowing you to form new connections!
+
+How we built it
+
+We built it with xCode and Swift, with backend web services written in PHP and a database built on MySQL. We used a WAMP Stack for testing our code and databases locally. 
+
+Challenges we ran into
+
+We had trouble connecting to and implementing the Snapchat SDK. Also, due to our lack of experience with the Google Cloud Platform, we experienced a learning curve in using the Platform to host our PHP scripts and database. PHP debugging also gave us trouble. 
+
+Accomplishments that we're proud of
+
+We are proud to demo this prototype which allows you to engage in the virtual cruise experience, with a furnished UI that keeps the user engaged and makes the vacation feel like seamless and endless fun. We are also proud of the speed and efficiency with which the app is able to run.
+
+What we learn
+
+We learned more about PHP and Google cloud technologies, as well as implementing Google Cloud in a real-world application and using Cloud hosting for databases. 
+
+What's next for Cruise Control
+
+Show it to cruise companies and release it to the public to inform them and stir interest.
+",,https://github.com/noahwg/CruiseApp.git,https://s3.amazonaws.com/challengepost/zip_files/production/42384/zip_files/CruiseControl.pptx,"xcode, wamp, swift, sql, tried-to-use-snapchat, maybe-google-cloude, and-legion, acer, and-apple, free-food-from-psu",Pennsylvania State University,,Snap,djpatel1998,Deep,Patel,djpatel1998@gmail.com,Pennsylvania State University,3,ssm55,,,ssm55@psu.edu,nwg5167,Noah,Gerberick,nwg5167@psu.edu,cpp5231,Chinmay,Pendse,cpp5231@psu.edu,,,,,,,,
+HackPSU Overall - Tech,Cruise Control,28,https://hackpsu-spring-2019.devpost.com/submissions/116195-cruise-control,"Inspiration
+
+We wanted to create an app that allows people to form meaningful relationships while on a cruise. 
+
+What it does
+
+Our app allows you to view all events that are happening on your cruise. It allows you to see the location and time of the event, so you never miss anything important. Additionally, the app connects you to other people on the cruise that are interested in similar events, allowing you to form new connections!
+
+How we built it
+
+We built it with xCode and Swift, with backend web services written in PHP and a database built on MySQL. We used a WAMP Stack for testing our code and databases locally. 
+
+Challenges we ran into
+
+We had trouble connecting to and implementing the Snapchat SDK. Also, due to our lack of experience with the Google Cloud Platform, we experienced a learning curve in using the Platform to host our PHP scripts and database. PHP debugging also gave us trouble. 
+
+Accomplishments that we're proud of
+
+We are proud to demo this prototype which allows you to engage in the virtual cruise experience, with a furnished UI that keeps the user engaged and makes the vacation feel like seamless and endless fun. We are also proud of the speed and efficiency with which the app is able to run.
+
+What we learn
+
+We learned more about PHP and Google cloud technologies, as well as implementing Google Cloud in a real-world application and using Cloud hosting for databases. 
+
+What's next for Cruise Control
+
+Show it to cruise companies and release it to the public to inform them and stir interest.
+",,https://github.com/noahwg/CruiseApp.git,https://s3.amazonaws.com/challengepost/zip_files/production/42384/zip_files/CruiseControl.pptx,"xcode, wamp, swift, sql, tried-to-use-snapchat, maybe-google-cloude, and-legion, acer, and-apple, free-food-from-psu",Pennsylvania State University,,Snap,djpatel1998,Deep,Patel,djpatel1998@gmail.com,Pennsylvania State University,3,ssm55,,,ssm55@psu.edu,nwg5167,Noah,Gerberick,nwg5167@psu.edu,cpp5231,Chinmay,Pendse,cpp5231@psu.edu,,,,,,,,
+EY Tech Challenge,Smooth Sailing,11,https://hackpsu-spring-2019.devpost.com/submissions/116196-smooth-sailing,"Inspiration
+
+There was no real inspiration - when the challenge was announced, I thought it was genuinely really funny and wanted to tap into my own creative energy to see what I could come up with. 
+
+What it does
+
+From the user side, the user has an app that allows them to upload their documents so they don't have to carry it on the cruise. It also allows them to book their Spas, receive the schedule for the cruise ride, and a way to complain about any issues they were having.
+What's really cool is the social aspect. Although it wasn't finished, there was a functionality I was woking on, which would allow everyone on the cruise to share pictures of with each other. Everyone on the cruise would be able to see these pictures (assuming you allow it). This way, people can meet new people and enjoy each others time.
+The last thing I didn't get to touch was potentially using a FitBit as a ticket, via NFC.
+
+From the Client side, there is a visual online Database that the client can look at to see if any user scheduled anything, has any complaints, 
+
+How I built it
+
+Java on Android Studio, HTML, CSS, and JS, and an attempt with Azure
+
+Challenges I ran into
+
+I have almost no experience with Java or Azure
+
+Accomplishments that I'm proud of
+
+I essentially built a relatively functional app - 0 to like 70 real fast. 
+
+What I learned
+
+Really learned a lot of Android studio and a little bit of server related Azure tools
+
+What's next for Smooth Sailing
+
+Maybe a cruise company will take it from me.
+",,,,"java, android-studio, android, html5, css3, javascript, bootstrap",Penn State,,,helloimali,Ali,Malik,toalisaeedmalik@gmail.com,Pennsylvania State University,0,,,,,,,,,,,,,,,,,,,,
+HackPSU Overall - Tech,Smooth Sailing,11,https://hackpsu-spring-2019.devpost.com/submissions/116196-smooth-sailing,"Inspiration
+
+There was no real inspiration - when the challenge was announced, I thought it was genuinely really funny and wanted to tap into my own creative energy to see what I could come up with. 
+
+What it does
+
+From the user side, the user has an app that allows them to upload their documents so they don't have to carry it on the cruise. It also allows them to book their Spas, receive the schedule for the cruise ride, and a way to complain about any issues they were having.
+What's really cool is the social aspect. Although it wasn't finished, there was a functionality I was woking on, which would allow everyone on the cruise to share pictures of with each other. Everyone on the cruise would be able to see these pictures (assuming you allow it). This way, people can meet new people and enjoy each others time.
+The last thing I didn't get to touch was potentially using a FitBit as a ticket, via NFC.
+
+From the Client side, there is a visual online Database that the client can look at to see if any user scheduled anything, has any complaints, 
+
+How I built it
+
+Java on Android Studio, HTML, CSS, and JS, and an attempt with Azure
+
+Challenges I ran into
+
+I have almost no experience with Java or Azure
+
+Accomplishments that I'm proud of
+
+I essentially built a relatively functional app - 0 to like 70 real fast. 
+
+What I learned
+
+Really learned a lot of Android studio and a little bit of server related Azure tools
+
+What's next for Smooth Sailing
+
+Maybe a cruise company will take it from me.
+",,,,"java, android-studio, android, html5, css3, javascript, bootstrap",Penn State,,,helloimali,Ali,Malik,toalisaeedmalik@gmail.com,Pennsylvania State University,0,,,,,,,,,,,,,,,,,,,,
+,Clock Latch Reset,60,https://hackpsu-spring-2019.devpost.com/submissions/116197-clock-latch-reset,"Inspiration
+
+I got really into retro display technology, such as the seven segment display and nixie tubes, but they are too expensive and require previous knowledge. I wanted to create displays with the retro feel, but the connectivity of today.
+
+What it does
+
+It is a kit of parts that can be built into a display and can display any series of alphanumeric characters , so It becomes a useful information display
+
+How I built it
+
+I started with an image of an old VFD display and modeled it to fit into an LED format then I designed the case and printed out the pieces. Next the LEDs Were added
+
+Challenges I ran into
+
+24 hours is not enough time to make A full kit for a product from scratch
+
+Accomplishments that I'm proud of
+
+What I learned
+
+What's next for Clock Latch Reset
+",,,,"3dprinting, autodesk-fusion-360, solidworks, arduino, c++",Penn State,,,Timerush,William,Schopf,syfyguybilly@gmail.com,Pennsylvania State University,0,,,,,,,,,,,,,,,,,,,,
+HackPSU Overall - Tech,beyond-resume,46,https://hackpsu-spring-2019.devpost.com/submissions/116198-beyond-resume,"beyond-resume 
+
+A Machine Learning Based Approach to Hiring Qualified Individuals
+This implementation is something which profits both the employer and the applicant. Below are some the key highlights of the implmentation - 
+
+
+MongoDB based backend provides seamless and fast querying and information retrieval
+An enhanced job-descrition to cater other possible areas of expertise which might be closely linked to the ones mentioned in the description.
+A comparative measure of applicants abilities and skills with the requirements of the position.
+A Flask based web application which has been integrated with both Python and MongoDB.
+
+
+Data Gathering, Pre-processing and Backend Development
+
+The data was gathered for 4 types of job description - 
+
+
+Data Scientist
+Data Engineer
+Software Engineering
+Quantitative Analyst
+
+
+Some key steps involved in this process include - 
+
+
+The job descriptions were filtered for keywords and their related vocabulary through web-scrapping
+The data was stored in the form of a Graph where each node is linked with its related vocabulary words e.g. Deep Learning is linked with Neural Networks
+
+
+Applicant Evaluation and Front-end Development
+
+Using the data gathered, we perform the following measures of evaluation of an applicant - 
+
+
+Based on the applicant skills and how closely it is related to the skills identified from the job description, we provide a score to their skills through topological measures of network analysis
+The top 15 skills of the applicant which align with the job description are returned
+Skills pertaining to the Data Science Job Description
+
+
+
+Applicant Friendly Features
+
+
+The web application lets the applicant know if there is a very low match between his expertise and the job's required skill-set.
+Based on the applicant's skills, the application is capable of suggesting other jobs which are in the system which are a better match to their skill-set
+
+
+Conclusion
+
+Some of the key points which can be inferred from our development are - 
+
+
+The development is highly scalable with its ability to improve based on the dataset used to create the backend using NLP and Textual data mining techniques.
+The backend for this application can be made lighter with the envolvement of AI based recommendation system
+
+",,https://github.com/srish28/beyond-resume,https://s3.amazonaws.com/challengepost/zip_files/production/42385/zip_files/beyond-resume.zip,"python, html, flask, mongodb, networkx, beautiful-soup, azure, fuzzymatching, graph-mining",Pennsylvania State University - Great Valley,,,sxk1587,Srishti,Kumar,sxk1587@psu.edu,Pennsylvania State University,2,tud342,Tushara,Duvvuri,tud342@psu.edu,devendrajaiswal094,Devendra,Jaiswal,devendrajaiswal094@gmail.com,,,,,,,,,,,,
+Geico - AI Challenge,beyond-resume,46,https://hackpsu-spring-2019.devpost.com/submissions/116198-beyond-resume,"beyond-resume 
+
+A Machine Learning Based Approach to Hiring Qualified Individuals
+This implementation is something which profits both the employer and the applicant. Below are some the key highlights of the implmentation - 
+
+
+MongoDB based backend provides seamless and fast querying and information retrieval
+An enhanced job-descrition to cater other possible areas of expertise which might be closely linked to the ones mentioned in the description.
+A comparative measure of applicants abilities and skills with the requirements of the position.
+A Flask based web application which has been integrated with both Python and MongoDB.
+
+
+Data Gathering, Pre-processing and Backend Development
+
+The data was gathered for 4 types of job description - 
+
+
+Data Scientist
+Data Engineer
+Software Engineering
+Quantitative Analyst
+
+
+Some key steps involved in this process include - 
+
+
+The job descriptions were filtered for keywords and their related vocabulary through web-scrapping
+The data was stored in the form of a Graph where each node is linked with its related vocabulary words e.g. Deep Learning is linked with Neural Networks
+
+
+Applicant Evaluation and Front-end Development
+
+Using the data gathered, we perform the following measures of evaluation of an applicant - 
+
+
+Based on the applicant skills and how closely it is related to the skills identified from the job description, we provide a score to their skills through topological measures of network analysis
+The top 15 skills of the applicant which align with the job description are returned
+Skills pertaining to the Data Science Job Description
+
+
+
+Applicant Friendly Features
+
+
+The web application lets the applicant know if there is a very low match between his expertise and the job's required skill-set.
+Based on the applicant's skills, the application is capable of suggesting other jobs which are in the system which are a better match to their skill-set
+
+
+Conclusion
+
+Some of the key points which can be inferred from our development are - 
+
+
+The development is highly scalable with its ability to improve based on the dataset used to create the backend using NLP and Textual data mining techniques.
+The backend for this application can be made lighter with the envolvement of AI based recommendation system
+
+",,https://github.com/srish28/beyond-resume,https://s3.amazonaws.com/challengepost/zip_files/production/42385/zip_files/beyond-resume.zip,"python, html, flask, mongodb, networkx, beautiful-soup, azure, fuzzymatching, graph-mining",Pennsylvania State University - Great Valley,,,sxk1587,Srishti,Kumar,sxk1587@psu.edu,Pennsylvania State University,2,tud342,Tushara,Duvvuri,tud342@psu.edu,devendrajaiswal094,Devendra,Jaiswal,devendrajaiswal094@gmail.com,,,,,,,,,,,,
+Geico - AI Challenge,Employing,8,https://hackpsu-spring-2019.devpost.com/submissions/116199-employing,"Inspiration
+
+What it does
+
+Filters applicants for recruiters to better choose potential employees while generating reports for applicants that were not chosen. 
+
+How I built it
+
+Python, Machine Learning, Natural Language Processing
+
+Challenges I ran into
+
+Topic Modeling 
+
+Accomplishments that I'm proud of
+
+What I learned
+
+What's next for Employing
+
+Finish my logic. Wasn't able to finish the entirety of the project. 
+",,https://docs.google.com/presentation/d/1UC1bWxSoYtlQ72ERFgPcbrk5786AaCOSVzYnCSoQJ5U/edit?usp=sharing,https://s3.amazonaws.com/challengepost/zip_files/production/42386/zip_files/Geico_Hack.zip,python,PSU,,,austingongora,Austin,Gongora,austin.gongora@yahoo.com,Pennsylvania State University,2,kamakayasilva,Rommel,Silva,kamakayasilva@gmail.com,kmt0297,Karthik,Thiagarajan,kmt0297@gmail.com,,,,,,,,,,,,
+,Morse Code Translator,31,https://hackpsu-spring-2019.devpost.com/submissions/116200-morse-code-translator,"HackPSU-Spring-2019
+This program uses input from a Raspberry Pi to translate morse code into a variety of languages (thanks to Google Cloud's Translate API)
+",,https://github.com/alexrrobbins/HackPSU-Spring-2019,,"python, google-cloud",Indiana University of Pennsylvania,,Google Cloud Platform,alexrrobbins,Alex,Robbins,alexrrobbins@gmail.com,Indiana University of Pennsylvania,0,,,,,,,,,,,,,,,,,,,,
+,Oracle Employ,61,https://hackpsu-spring-2019.devpost.com/submissions/116201-oracle-employ,"Inspiration
+
+GPAs aren't everything, I want to determine a fixed probability based on three separate categories combined, skills, experience, and GPA.
+
+What it does
+
+Uses machine learning library Brain.js, an amazing neural network tool.
+
+How I built it
+
+Trained a neural network with example applicants.
+
+Challenges I ran into
+
+Accomplishments that I'm proud of
+
+Using artificial intelligence in a real-world style application.
+
+What I learned
+
+What's next for Oracle Employ
+",,,,"react, node.js, loki, multer, firebase, brainjs, express.js",Penn State,,,simon_stroh,Simon,Stroh,simon_stroh@outlook.com,Pennsylvania State University,0,,,,,,,,,,,,,,,,,,,,
+,"Hey, I'm Hungry",7,https://hackpsu-spring-2019.devpost.com/submissions/116202-hey-i-m-hungry,"Inspiration
+
+Being at college, it isn't often that you meet people who are struggling for food. There's always free food around, and most people are able to obtain the most basic human need -- food. However, this isn't the case in inner city areas and poor suburbs. We recently came across research by The New York Times that said that a whopping 70% of those without a home now have access to a smartphone. We saw a clear path to help those who are hungry.
+
+It is well known that many households, restaurants and grocery stores throw out large amounts of food. Research shows that almost 30% of the food that is produced in the United States goes to waste. Hey, I'm Hungry is a platform that is looking to connect all levels of society through food.
+
+What it does
+
+At its heart, Hey, I'm Hungry helps those with excess food to efficiently donate it to those who are less fortunate. We make it easy and rewarding to help the community. There are three ways to interface with the platform:
+
+Mobile App
+A mobile phone app built in React Native allows us to reach out to the widest group of people. Users can scroll through food listings available near them (on a map, as well as in list form) and others can easily put up a listing for someone to come and take excess food from them. A machine learning algorithm analyzes photos of the food and estimates how long before the food is spoiled, and thus, inedible. This allows us to greatly focus offerings based on location, as well as on food quality.
+
+Smart Speaker
+Donating food is as simple as saying ""Hey, I'm hungry, I have some leftovers."" The Google Home integration allows effortless donations onto the platform. By just talking to your speaker and leaving some food outside when it alerts you, you could make someone's day.
+
+DropZone
+The DropZone is a special donation box that we have designed. It integrates with the Hey, I'm Hungry platform and makes it simple for soup kitchens, churches and charity groups to operate around the clock. Often, people don't donate their food since the donation locations are closed when it's convenient for them to go. The DropZone makes this problem irrelevant. As food is deposited into the DropZone, a camera on the inside automatically classifies the food using a machine learning algorithm. The food is then posted on the platform automatically for people to find.
+",,https://github.com/samlehman617/HeyImHungry,,"flask, react-native, google-home, raspberry-pi, machine-learning",0,,,ammarzuberi,Ammar,Zuberi,zuberiammar@gmail.com,Pennsylvania State University,0,,,,,,,,,,,,,,,,,,,,
+Lion LaunchPad SLO - Inventory Innovation,Inventory GUI 4 stinky boys,6,https://hackpsu-spring-2019.devpost.com/submissions/116203-inventory-gui-4-stinky-boys,"told in presentation
+",,,https://s3.amazonaws.com/challengepost/zip_files/production/42394/zip_files/inventoryimage.docx,"python, tkinter",penn state,,,vbalaji1024,vijay,balaji,vbalaji1024@gmail.com,Pennsylvania State University,1,shroomstate,shroomstate,,toast.make@gmail.com,,,,,,,,,,,,,,,,
+,Turtle Drawing Micro bot,51,https://hackpsu-spring-2019.devpost.com/submissions/116205-turtle-drawing-micro-bot,"Inspiration
+
+What it does
+
+We use the micro bit to detect the tilt motion and draw on window. When A button is pressed and hold, user will be able to draw. When B button is pressed the program will close.
+
+How we built it
+
+We use python and Javascript
+
+Challenges we ran into
+
+Setting up the port and trouble shooting. 
+
+Accomplishments that we're proud of
+
+We were able to see movements in the screen according to the tilt motion of micro bit.
+
+What we learned
+
+More coding skill about python and setting up the port
+
+What's next for Turtle Drawing Micro bot
+
+add colors and clear function 
+",,,https://s3.amazonaws.com/challengepost/zip_files/production/42392/zip_files/HackathonPSU1.zip,"python, microbit",Montgomery College,,,hernandeznn503,Nelson,Hernandez,hernandeznn503@gmail.com,Montgomery College,0,,,,,,,,,,,,,,,,,,,,
+EY Tech Challenge,Nav,74,https://hackpsu-spring-2019.devpost.com/submissions/116206-nav,"Inspiration
+
+The inspiration for the project was from our personal experiences of cruises which were filled with fewer memories of joy and more memories of waiting in endless queues to use the amenities or be in overcrowded areas that were beyond capacity which it difficult for everyone to enjoy. This is why felt there is a need for an app that empowers the user with data to stay away from the crowded areas of the ship.
+
+What it does and How we built it
+
+First, we use Swift to create an iPhone app which receives the wifi hotspot number. This number tells us the location of the consumer without disclosing their identities which is essential for safety and privacy. Then that number is accepted by a python code which used jinja and flask in order to display to the user the locations close by and their capacity in real time. Then we used an API to get this data back to the user on the app and display in an orderly fashion using html5
+
+Challenges we ran into
+
+Towards the end, we found it difficult to scale our app for phones as all the output appeared to be very small. This was one of the biggest humps in our progress through the last 24 hours.
+
+What we learned
+
+2 of the members on our team were unfamiliar with swift which was a great learning experience. Moreover, All the 3 members of our team are of varying levels of coding experience which is why we were able to learn a ton from one another besides code and logic. For instance, we became familiar with the concept of finishing large projects within a deadline much like what would be expected of us in a professional environment. We were also able to pick up Illustrator skills for making the logo.
+
+What's next for Nav
+
+Nav at its core is a navigation app on the basis of crowd concentration in areas of interest. This is a very good application for theme parks and adds map integration. This would help create a heat map to give the user a more detailed experience. This would also mean we could use Nav for busses.
+",,https://github.com/KingEinstein919/HackPsu2019,,"python, api's, xcode, html5, adobe-illustrator, swift, flask, jinja",Penn State,,,ArchitGoswami,Archit,Goswami,ajg6278@psu.edu,Pennsylvania State University,1,asd5459,Amey,Deotale,asd5459@psu.edu,,,,,,,,,,,,,,,,
+HackPSU Overall - Tech,Nav,74,https://hackpsu-spring-2019.devpost.com/submissions/116206-nav,"Inspiration
+
+The inspiration for the project was from our personal experiences of cruises which were filled with fewer memories of joy and more memories of waiting in endless queues to use the amenities or be in overcrowded areas that were beyond capacity which it difficult for everyone to enjoy. This is why felt there is a need for an app that empowers the user with data to stay away from the crowded areas of the ship.
+
+What it does and How we built it
+
+First, we use Swift to create an iPhone app which receives the wifi hotspot number. This number tells us the location of the consumer without disclosing their identities which is essential for safety and privacy. Then that number is accepted by a python code which used jinja and flask in order to display to the user the locations close by and their capacity in real time. Then we used an API to get this data back to the user on the app and display in an orderly fashion using html5
+
+Challenges we ran into
+
+Towards the end, we found it difficult to scale our app for phones as all the output appeared to be very small. This was one of the biggest humps in our progress through the last 24 hours.
+
+What we learned
+
+2 of the members on our team were unfamiliar with swift which was a great learning experience. Moreover, All the 3 members of our team are of varying levels of coding experience which is why we were able to learn a ton from one another besides code and logic. For instance, we became familiar with the concept of finishing large projects within a deadline much like what would be expected of us in a professional environment. We were also able to pick up Illustrator skills for making the logo.
+
+What's next for Nav
+
+Nav at its core is a navigation app on the basis of crowd concentration in areas of interest. This is a very good application for theme parks and adds map integration. This would help create a heat map to give the user a more detailed experience. This would also mean we could use Nav for busses.
+",,https://github.com/KingEinstein919/HackPsu2019,,"python, api's, xcode, html5, adobe-illustrator, swift, flask, jinja",Penn State,,,ArchitGoswami,Archit,Goswami,ajg6278@psu.edu,Pennsylvania State University,1,asd5459,Amey,Deotale,asd5459@psu.edu,,,,,,,,,,,,,,,,
+Best Use of Google Cloud Platform (MLH),Mood Songs,83,https://hackpsu-spring-2019.devpost.com/submissions/116207-mood-songs,"Inspiration
+
+Who doesn't love music? We all do. I feel it is extremely soothing to be able to listen to the right music that suits your mood. It is interesting how the best pop songs are annoying when you're not in the mood. But often, we ourselves do not know what mood we're in, and in that case, it becomes quite a task to find the right song or to even realize that the right song is all that we need. This app is an effort to sort that out and give you the best of music.
+
+What it does
+
+It analyzes your mood by taking a glance at your conversations with a friend (ONLY if you consent to it) and suggest you songs aptly.
+
+How I built it
+
+I built it in Python. It extensively uses Google Cloud Services and pygame. The code analyzes the sentiment of your text using the Natural Language Processing sentiment analysis available on the Google Cloud Platform. With the knowledge of the sentiment and its intensity, it suggests an apt song. Currently, it just chooses the best option from my personal repo of songs.
+
+Challenges I ran into
+
+Setting up and using GCP and Google SDK. I also realized it will take weeks of NLP research at the least to incorporate for complex emotions like ""in love, but sad""; and this is difficult to achieve in a 24 hour hackathon, though this is definitely a part of my future work on this project.
+
+Accomplishments that I'm proud of
+
+The idea and its utility. I text a lot, and every time I open Spotify on my phone, I keep thinking about what I want to play.
+
+What I learned
+
+Using NLP by GCP. The fact that our moods are not always easily classifiable and positive and negative are not the only ways we can feel.
+
+What's next for Mood Songs
+
+I would like to make an amazing UI and deploy this on Google Play. And get deeper into NLP to incorporate for more complex emotions. I would also like to extend the library of songs to non-English languages. Also, I would want to make the app learn on the basis of whether the user skips the song or keeps playing it. This part would be simple reinforcement learning.
+",,https://github.com/parulm/mood-songs,,"python, google-cloud, pyqt, pygame",Penn State University,,Google Cloud Platform,parulm,Parul,,parul.dkm@gmail.com,Pennsylvania State University,0,,,,,,,,,,,,,,,,,,,,
+HackPSU Overall - Tech,Mood Songs,83,https://hackpsu-spring-2019.devpost.com/submissions/116207-mood-songs,"Inspiration
+
+Who doesn't love music? We all do. I feel it is extremely soothing to be able to listen to the right music that suits your mood. It is interesting how the best pop songs are annoying when you're not in the mood. But often, we ourselves do not know what mood we're in, and in that case, it becomes quite a task to find the right song or to even realize that the right song is all that we need. This app is an effort to sort that out and give you the best of music.
+
+What it does
+
+It analyzes your mood by taking a glance at your conversations with a friend (ONLY if you consent to it) and suggest you songs aptly.
+
+How I built it
+
+I built it in Python. It extensively uses Google Cloud Services and pygame. The code analyzes the sentiment of your text using the Natural Language Processing sentiment analysis available on the Google Cloud Platform. With the knowledge of the sentiment and its intensity, it suggests an apt song. Currently, it just chooses the best option from my personal repo of songs.
+
+Challenges I ran into
+
+Setting up and using GCP and Google SDK. I also realized it will take weeks of NLP research at the least to incorporate for complex emotions like ""in love, but sad""; and this is difficult to achieve in a 24 hour hackathon, though this is definitely a part of my future work on this project.
+
+Accomplishments that I'm proud of
+
+The idea and its utility. I text a lot, and every time I open Spotify on my phone, I keep thinking about what I want to play.
+
+What I learned
+
+Using NLP by GCP. The fact that our moods are not always easily classifiable and positive and negative are not the only ways we can feel.
+
+What's next for Mood Songs
+
+I would like to make an amazing UI and deploy this on Google Play. And get deeper into NLP to incorporate for more complex emotions. I would also like to extend the library of songs to non-English languages. Also, I would want to make the app learn on the basis of whether the user skips the song or keeps playing it. This part would be simple reinforcement learning.
+",,https://github.com/parulm/mood-songs,,"python, google-cloud, pyqt, pygame",Penn State University,,Google Cloud Platform,parulm,Parul,,parul.dkm@gmail.com,Pennsylvania State University,0,,,,,,,,,,,,,,,,,,,,
+HackPSU Overall - Tech,ResumeChatAnalytics,58,https://hackpsu-spring-2019.devpost.com/submissions/116208-resumechatanalytics,"Inspiration
+
+Though resumes allows a person to have a certain level of creativity, it can be very difficult for a company to stream line the process.  Further, sometimes a resume cannot allow someone to tell their entire story due to certain circumstances.  However, having too much details in resumes makes an employer have issues with getting though so many of them.  As a result, our chat-bot allows the potential employee to have an easy time giving the reasons for their hiring while in the back-end, we parse the keywords for the employer to understand the person in seconds.
+
+What it does
+
+The chat-bot we developed is simply a chatting service that is scalable such that new hires and students can apply with ease.  It is located in a web-browser and allows users to chat with a bot, which parses their inputs for specific key words using machine learning and text analytics.
+
+How we built it
+
+This system is built using Node.js off of the azure platform.
+
+Challenges we ran into
+
+We don't know any Node.js or azure but we wanted to learn something new.
+
+Accomplishments that we're proud of
+
+We finished something.
+
+What we learned
+
+JavaScript is tough at first, but very nice and usable.  Azure is great.
+
+What's next for ResumeChatAnalytics
+
+The system could potentially create resumes automatically and output to a more appropriate destination.
+",,,,"javascript, html, azure, botplatform",PennState,,,eroeum,eroeum,,eroeum@gmail.com,Pennsylvania State University,0,,,,,,,,,,,,,,,,,,,,
+Geico - AI Challenge,ResumeChatAnalytics,58,https://hackpsu-spring-2019.devpost.com/submissions/116208-resumechatanalytics,"Inspiration
+
+Though resumes allows a person to have a certain level of creativity, it can be very difficult for a company to stream line the process.  Further, sometimes a resume cannot allow someone to tell their entire story due to certain circumstances.  However, having too much details in resumes makes an employer have issues with getting though so many of them.  As a result, our chat-bot allows the potential employee to have an easy time giving the reasons for their hiring while in the back-end, we parse the keywords for the employer to understand the person in seconds.
+
+What it does
+
+The chat-bot we developed is simply a chatting service that is scalable such that new hires and students can apply with ease.  It is located in a web-browser and allows users to chat with a bot, which parses their inputs for specific key words using machine learning and text analytics.
+
+How we built it
+
+This system is built using Node.js off of the azure platform.
+
+Challenges we ran into
+
+We don't know any Node.js or azure but we wanted to learn something new.
+
+Accomplishments that we're proud of
+
+We finished something.
+
+What we learned
+
+JavaScript is tough at first, but very nice and usable.  Azure is great.
+
+What's next for ResumeChatAnalytics
+
+The system could potentially create resumes automatically and output to a more appropriate destination.
+",,,,"javascript, html, azure, botplatform",PennState,,,eroeum,eroeum,,eroeum@gmail.com,Pennsylvania State University,0,,,,,,,,,,,,,,,,,,,,
